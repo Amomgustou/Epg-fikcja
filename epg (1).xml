@@ -1,0 +1,1725 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="EPG Generator">
+  <channel id="polsat_romans_disco">
+    <display-name lang="pl">Polsat Romans Disco</display-name>
+  </channel>
+  <programme start="20261028125100 +0100" stop="20261028134100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Polsat Romans Disco Gramy</title>
+  </programme>
+  <programme start="20261028134100 +0100" stop="20261028140300 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261028140300 +0100" stop="20261028142500 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261028142500 +0100" stop="20261028150900 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Gliniarze</title>
+  </programme>
+  <programme start="20261028150900 +0100" stop="20261028154200 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261028154200 +0100" stop="20261028161100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261028161100 +0100" stop="20261028170600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Stawka większa niż życie</title>
+  </programme>
+  <programme start="20261028170600 +0100" stop="20261028175600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Polsat Romans Disco Gramy</title>
+  </programme>
+  <programme start="20261028175600 +0100" stop="20261028181800 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261028181800 +0100" stop="20261028184000 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261028184000 +0100" stop="20261028192400 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Gliniarze</title>
+  </programme>
+  <programme start="20261028192400 +0100" stop="20261028195700 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261028195700 +0100" stop="20261028202600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261028202600 +0100" stop="20261028212100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Stawka większa niż życie</title>
+  </programme>
+  <programme start="20261028212100 +0100" stop="20261028221100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Polsat Romans Disco Gramy</title>
+  </programme>
+  <programme start="20261028221100 +0100" stop="20261028223300 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261028223300 +0100" stop="20261028225500 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261028225500 +0100" stop="20261028233900 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Gliniarze</title>
+  </programme>
+  <programme start="20261028233900 +0100" stop="20261029001200 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261029001200 +0100" stop="20261029004100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261029004100 +0100" stop="20261029013600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Stawka większa niż życie</title>
+  </programme>
+  <programme start="20261029013600 +0100" stop="20261029022600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Polsat Romans Disco Gramy</title>
+  </programme>
+  <programme start="20261029022600 +0100" stop="20261029024800 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261029024800 +0100" stop="20261029031000 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261029031000 +0100" stop="20261029035400 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Gliniarze</title>
+  </programme>
+  <programme start="20261029035400 +0100" stop="20261029042700 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261029042700 +0100" stop="20261029045600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261029045600 +0100" stop="20261029055100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Stawka większa niż życie</title>
+  </programme>
+  <programme start="20261029055100 +0100" stop="20261029064100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Polsat Romans Disco Gramy</title>
+  </programme>
+  <programme start="20261029064100 +0100" stop="20261029070300 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261029070300 +0100" stop="20261029072500 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261029072500 +0100" stop="20261029080900 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Gliniarze</title>
+  </programme>
+  <programme start="20261029080900 +0100" stop="20261029084200 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261029084200 +0100" stop="20261029091100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261029091100 +0100" stop="20261029100600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Stawka większa niż życie</title>
+  </programme>
+  <programme start="20261029100600 +0100" stop="20261029105600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Polsat Romans Disco Gramy</title>
+  </programme>
+  <programme start="20261029105600 +0100" stop="20261029111800 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261029111800 +0100" stop="20261029114000 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261029114000 +0100" stop="20261029122400 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Gliniarze</title>
+  </programme>
+  <programme start="20261029122400 +0100" stop="20261029125700 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261029125700 +0100" stop="20261029132600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261029132600 +0100" stop="20261029142100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Stawka większa niż życie</title>
+  </programme>
+  <programme start="20261029142100 +0100" stop="20261029151100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Polsat Romans Disco Gramy</title>
+  </programme>
+  <programme start="20261029151100 +0100" stop="20261029153300 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261029153300 +0100" stop="20261029155500 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261029155500 +0100" stop="20261029163900 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Gliniarze</title>
+  </programme>
+  <programme start="20261029163900 +0100" stop="20261029171200 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261029171200 +0100" stop="20261029174100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261029174100 +0100" stop="20261029183600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Stawka większa niż życie</title>
+  </programme>
+  <programme start="20261029183600 +0100" stop="20261029192600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Polsat Romans Disco Gramy</title>
+  </programme>
+  <programme start="20261029192600 +0100" stop="20261029194800 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261029194800 +0100" stop="20261029201000 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261029201000 +0100" stop="20261029205400 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Gliniarze</title>
+  </programme>
+  <programme start="20261029205400 +0100" stop="20261029212700 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261029212700 +0100" stop="20261029215600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261029215600 +0100" stop="20261029225100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Stawka większa niż życie</title>
+  </programme>
+  <programme start="20261029225100 +0100" stop="20261029234100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Polsat Romans Disco Gramy</title>
+  </programme>
+  <programme start="20261029234100 +0100" stop="20261030000300 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261030000300 +0100" stop="20261030002500 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261030002500 +0100" stop="20261030010900 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Gliniarze</title>
+  </programme>
+  <programme start="20261030010900 +0100" stop="20261030014200 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261030014200 +0100" stop="20261030021100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261030021100 +0100" stop="20261030030600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Stawka większa niż życie</title>
+  </programme>
+  <programme start="20261030030600 +0100" stop="20261030035600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Polsat Romans Disco Gramy</title>
+  </programme>
+  <programme start="20261030035600 +0100" stop="20261030041800 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261030041800 +0100" stop="20261030044000 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261030044000 +0100" stop="20261030052400 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Gliniarze</title>
+  </programme>
+  <programme start="20261030052400 +0100" stop="20261030055700 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261030055700 +0100" stop="20261030062600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261030062600 +0100" stop="20261030072100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Stawka większa niż życie</title>
+  </programme>
+  <programme start="20261030072100 +0100" stop="20261030081100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Polsat Romans Disco Gramy</title>
+  </programme>
+  <programme start="20261030081100 +0100" stop="20261030083300 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261030083300 +0100" stop="20261030085500 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261030085500 +0100" stop="20261030093900 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Gliniarze</title>
+  </programme>
+  <programme start="20261030093900 +0100" stop="20261030101200 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261030101200 +0100" stop="20261030104100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261030104100 +0100" stop="20261030113600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Stawka większa niż życie</title>
+  </programme>
+  <programme start="20261030113600 +0100" stop="20261030122600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Polsat Romans Disco Gramy</title>
+  </programme>
+  <programme start="20261030122600 +0100" stop="20261030124800 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261030124800 +0100" stop="20261030131000 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261030131000 +0100" stop="20261030135400 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Gliniarze</title>
+  </programme>
+  <programme start="20261030135400 +0100" stop="20261030142700 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261030142700 +0100" stop="20261030145600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261030145600 +0100" stop="20261030155100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Stawka większa niż życie</title>
+  </programme>
+  <programme start="20261030155100 +0100" stop="20261030164100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Polsat Romans Disco Gramy</title>
+  </programme>
+  <programme start="20261030164100 +0100" stop="20261030170300 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261030170300 +0100" stop="20261030172500 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261030172500 +0100" stop="20261030180900 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Gliniarze</title>
+  </programme>
+  <programme start="20261030180900 +0100" stop="20261030184200 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261030184200 +0100" stop="20261030191100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261030191100 +0100" stop="20261030200600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Stawka większa niż życie</title>
+  </programme>
+  <programme start="20261030200600 +0100" stop="20261030205600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Polsat Romans Disco Gramy</title>
+  </programme>
+  <programme start="20261030205600 +0100" stop="20261030211800 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261030211800 +0100" stop="20261030214000 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261030214000 +0100" stop="20261030222400 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Gliniarze</title>
+  </programme>
+  <programme start="20261030222400 +0100" stop="20261030225700 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261030225700 +0100" stop="20261030232600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261030232600 +0100" stop="20261031002100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Stawka większa niż życie</title>
+  </programme>
+  <programme start="20261031002100 +0100" stop="20261031011100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Polsat Romans Disco Gramy</title>
+  </programme>
+  <programme start="20261031011100 +0100" stop="20261031013300 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261031013300 +0100" stop="20261031015500 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261031015500 +0100" stop="20261031023900 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Gliniarze</title>
+  </programme>
+  <programme start="20261031023900 +0100" stop="20261031031200 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261031031200 +0100" stop="20261031034100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261031034100 +0100" stop="20261031043600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Stawka większa niż życie</title>
+  </programme>
+  <programme start="20261031043600 +0100" stop="20261031052600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Polsat Romans Disco Gramy</title>
+  </programme>
+  <programme start="20261031052600 +0100" stop="20261031054800 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261031054800 +0100" stop="20261031061000 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261031061000 +0100" stop="20261031065400 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Gliniarze</title>
+  </programme>
+  <programme start="20261031065400 +0100" stop="20261031072700 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261031072700 +0100" stop="20261031075600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261031075600 +0100" stop="20261031085100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Stawka większa niż życie</title>
+  </programme>
+  <programme start="20261031085100 +0100" stop="20261031094100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Polsat Romans Disco Gramy</title>
+  </programme>
+  <programme start="20261031094100 +0100" stop="20261031100300 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261031100300 +0100" stop="20261031102500 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261031102500 +0100" stop="20261031110900 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Gliniarze</title>
+  </programme>
+  <programme start="20261031110900 +0100" stop="20261031114200 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261031114200 +0100" stop="20261031121100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261031121100 +0100" stop="20261031130600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Stawka większa niż życie</title>
+  </programme>
+  <programme start="20261031130600 +0100" stop="20261031135600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Polsat Romans Disco Gramy</title>
+  </programme>
+  <programme start="20261031135600 +0100" stop="20261031141800 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261031141800 +0100" stop="20261031144000 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261031144000 +0100" stop="20261031152400 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Gliniarze</title>
+  </programme>
+  <programme start="20261031152400 +0100" stop="20261031155700 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261031155700 +0100" stop="20261031162600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261031162600 +0100" stop="20261031172100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Stawka większa niż życie</title>
+  </programme>
+  <programme start="20261031172100 +0100" stop="20261031181100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Polsat Romans Disco Gramy</title>
+  </programme>
+  <programme start="20261031181100 +0100" stop="20261031183300 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261031183300 +0100" stop="20261031185500 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261031185500 +0100" stop="20261031193900 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Gliniarze</title>
+  </programme>
+  <programme start="20261031193900 +0100" stop="20261031201200 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261031201200 +0100" stop="20261031204100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261031204100 +0100" stop="20261031213600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Stawka większa niż życie</title>
+  </programme>
+  <programme start="20261031213600 +0100" stop="20261031222600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Polsat Romans Disco Gramy</title>
+  </programme>
+  <programme start="20261031222600 +0100" stop="20261031224800 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261031224800 +0100" stop="20261031231000 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261031231000 +0100" stop="20261031235400 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Gliniarze</title>
+  </programme>
+  <programme start="20261031235400 +0100" stop="20261101002700 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261101002700 +0100" stop="20261101005600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261101005600 +0100" stop="20261101015100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Stawka większa niż życie</title>
+  </programme>
+  <programme start="20261101015100 +0100" stop="20261101024100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Polsat Romans Disco Gramy</title>
+  </programme>
+  <programme start="20261101024100 +0100" stop="20261101030300 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261101030300 +0100" stop="20261101032500 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261101032500 +0100" stop="20261101040900 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Gliniarze</title>
+  </programme>
+  <programme start="20261101040900 +0100" stop="20261101044200 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261101044200 +0100" stop="20261101051100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261101051100 +0100" stop="20261101060600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Stawka większa niż życie</title>
+  </programme>
+  <programme start="20261101060600 +0100" stop="20261101065600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Polsat Romans Disco Gramy</title>
+  </programme>
+  <programme start="20261101065600 +0100" stop="20261101071800 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261101071800 +0100" stop="20261101074000 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261101074000 +0100" stop="20261101082400 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Gliniarze</title>
+  </programme>
+  <programme start="20261101082400 +0100" stop="20261101085700 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261101085700 +0100" stop="20261101092600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261101092600 +0100" stop="20261101102100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Stawka większa niż życie</title>
+  </programme>
+  <programme start="20261101102100 +0100" stop="20261101111100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Polsat Romans Disco Gramy</title>
+  </programme>
+  <programme start="20261101111100 +0100" stop="20261101113300 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261101113300 +0100" stop="20261101115500 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261101115500 +0100" stop="20261101123900 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Gliniarze</title>
+  </programme>
+  <programme start="20261101123900 +0100" stop="20261101131200 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261101131200 +0100" stop="20261101134100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261101134100 +0100" stop="20261101143600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Stawka większa niż życie</title>
+  </programme>
+  <programme start="20261101143600 +0100" stop="20261101152600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Polsat Romans Disco Gramy</title>
+  </programme>
+  <programme start="20261101152600 +0100" stop="20261101154800 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261101154800 +0100" stop="20261101161000 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261101161000 +0100" stop="20261101165400 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Gliniarze</title>
+  </programme>
+  <programme start="20261101165400 +0100" stop="20261101172700 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261101172700 +0100" stop="20261101175600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261101175600 +0100" stop="20261101185100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Stawka większa niż życie</title>
+  </programme>
+  <programme start="20261101185100 +0100" stop="20261101194100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Polsat Romans Disco Gramy</title>
+  </programme>
+  <programme start="20261101194100 +0100" stop="20261101200300 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261101200300 +0100" stop="20261101202500 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261101202500 +0100" stop="20261101210900 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Gliniarze</title>
+  </programme>
+  <programme start="20261101210900 +0100" stop="20261101214200 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261101214200 +0100" stop="20261101221100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261101221100 +0100" stop="20261101230600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Stawka większa niż życie</title>
+  </programme>
+  <programme start="20261101230600 +0100" stop="20261101235600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Polsat Romans Disco Gramy</title>
+  </programme>
+  <programme start="20261101235600 +0100" stop="20261102001800 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261102001800 +0100" stop="20261102004000 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261102004000 +0100" stop="20261102012400 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Gliniarze</title>
+  </programme>
+  <programme start="20261102012400 +0100" stop="20261102015700 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261102015700 +0100" stop="20261102022600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261102022600 +0100" stop="20261102032100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Stawka większa niż życie</title>
+  </programme>
+  <programme start="20261102032100 +0100" stop="20261102041100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Polsat Romans Disco Gramy</title>
+  </programme>
+  <programme start="20261102041100 +0100" stop="20261102043300 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261102043300 +0100" stop="20261102045500 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261102045500 +0100" stop="20261102053900 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Gliniarze</title>
+  </programme>
+  <programme start="20261102053900 +0100" stop="20261102061200 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261102061200 +0100" stop="20261102064100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261102064100 +0100" stop="20261102073600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Stawka większa niż życie</title>
+  </programme>
+  <programme start="20261102073600 +0100" stop="20261102082600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Polsat Romans Disco Gramy</title>
+  </programme>
+  <programme start="20261102082600 +0100" stop="20261102084800 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261102084800 +0100" stop="20261102091000 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261102091000 +0100" stop="20261102095400 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Gliniarze</title>
+  </programme>
+  <programme start="20261102095400 +0100" stop="20261102102700 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261102102700 +0100" stop="20261102105600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261102105600 +0100" stop="20261102115100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Stawka większa niż życie</title>
+  </programme>
+  <programme start="20261102115100 +0100" stop="20261102124100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Polsat Romans Disco Gramy</title>
+  </programme>
+  <programme start="20261102124100 +0100" stop="20261102130300 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261102130300 +0100" stop="20261102132500 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261102132500 +0100" stop="20261102140900 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Gliniarze</title>
+  </programme>
+  <programme start="20261102140900 +0100" stop="20261102144200 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261102144200 +0100" stop="20261102151100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261102151100 +0100" stop="20261102160600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Stawka większa niż życie</title>
+  </programme>
+  <programme start="20261102160600 +0100" stop="20261102165600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Polsat Romans Disco Gramy</title>
+  </programme>
+  <programme start="20261102165600 +0100" stop="20261102171800 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261102171800 +0100" stop="20261102174000 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261102174000 +0100" stop="20261102182400 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Gliniarze</title>
+  </programme>
+  <programme start="20261102182400 +0100" stop="20261102185700 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261102185700 +0100" stop="20261102192600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261102192600 +0100" stop="20261102202100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Stawka większa niż życie</title>
+  </programme>
+  <programme start="20261102202100 +0100" stop="20261102211100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Polsat Romans Disco Gramy</title>
+  </programme>
+  <programme start="20261102211100 +0100" stop="20261102213300 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261102213300 +0100" stop="20261102215500 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261102215500 +0100" stop="20261102223900 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Gliniarze</title>
+  </programme>
+  <programme start="20261102223900 +0100" stop="20261102231200 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261102231200 +0100" stop="20261102234100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261102234100 +0100" stop="20261103003600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Stawka większa niż życie</title>
+  </programme>
+  <programme start="20261103003600 +0100" stop="20261103012600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Polsat Romans Disco Gramy</title>
+  </programme>
+  <programme start="20261103012600 +0100" stop="20261103014800 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261103014800 +0100" stop="20261103021000 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261103021000 +0100" stop="20261103025400 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Gliniarze</title>
+  </programme>
+  <programme start="20261103025400 +0100" stop="20261103032700 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261103032700 +0100" stop="20261103035600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261103035600 +0100" stop="20261103045100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Stawka większa niż życie</title>
+  </programme>
+  <programme start="20261103045100 +0100" stop="20261103054100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Polsat Romans Disco Gramy</title>
+  </programme>
+  <programme start="20261103054100 +0100" stop="20261103060300 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261103060300 +0100" stop="20261103062500 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261103062500 +0100" stop="20261103070900 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Gliniarze</title>
+  </programme>
+  <programme start="20261103070900 +0100" stop="20261103074200 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261103074200 +0100" stop="20261103081100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261103081100 +0100" stop="20261103090600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Stawka większa niż życie</title>
+  </programme>
+  <programme start="20261103090600 +0100" stop="20261103095600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Polsat Romans Disco Gramy</title>
+  </programme>
+  <programme start="20261103095600 +0100" stop="20261103101800 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261103101800 +0100" stop="20261103104000 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261103104000 +0100" stop="20261103112400 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Gliniarze</title>
+  </programme>
+  <programme start="20261103112400 +0100" stop="20261103115700 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261103115700 +0100" stop="20261103122600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261103122600 +0100" stop="20261103132100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Stawka większa niż życie</title>
+  </programme>
+  <programme start="20261103132100 +0100" stop="20261103141100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Polsat Romans Disco Gramy</title>
+  </programme>
+  <programme start="20261103141100 +0100" stop="20261103143300 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261103143300 +0100" stop="20261103145500 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261103145500 +0100" stop="20261103153900 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Gliniarze</title>
+  </programme>
+  <programme start="20261103153900 +0100" stop="20261103161200 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261103161200 +0100" stop="20261103164100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261103164100 +0100" stop="20261103173600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Stawka większa niż życie</title>
+  </programme>
+  <programme start="20261103173600 +0100" stop="20261103182600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Polsat Romans Disco Gramy</title>
+  </programme>
+  <programme start="20261103182600 +0100" stop="20261103184800 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261103184800 +0100" stop="20261103191000 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261103191000 +0100" stop="20261103195400 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Gliniarze</title>
+  </programme>
+  <programme start="20261103195400 +0100" stop="20261103202700 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261103202700 +0100" stop="20261103205600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261103205600 +0100" stop="20261103215100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Stawka większa niż życie</title>
+  </programme>
+  <programme start="20261103215100 +0100" stop="20261103224100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Polsat Romans Disco Gramy</title>
+  </programme>
+  <programme start="20261103224100 +0100" stop="20261103230300 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261103230300 +0100" stop="20261103232500 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261103232500 +0100" stop="20261104000900 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Gliniarze</title>
+  </programme>
+  <programme start="20261104000900 +0100" stop="20261104004200 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261104004200 +0100" stop="20261104011100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261104011100 +0100" stop="20261104020600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Stawka większa niż życie</title>
+  </programme>
+  <programme start="20261104020600 +0100" stop="20261104025600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Polsat Romans Disco Gramy</title>
+  </programme>
+  <programme start="20261104025600 +0100" stop="20261104031800 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261104031800 +0100" stop="20261104034000 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261104034000 +0100" stop="20261104042400 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Gliniarze</title>
+  </programme>
+  <programme start="20261104042400 +0100" stop="20261104045700 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261104045700 +0100" stop="20261104052600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261104052600 +0100" stop="20261104062100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Stawka większa niż życie</title>
+  </programme>
+  <programme start="20261104062100 +0100" stop="20261104071100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Polsat Romans Disco Gramy</title>
+  </programme>
+  <programme start="20261104071100 +0100" stop="20261104073300 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261104073300 +0100" stop="20261104075500 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261104075500 +0100" stop="20261104083900 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Gliniarze</title>
+  </programme>
+  <programme start="20261104083900 +0100" stop="20261104091200 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261104091200 +0100" stop="20261104094100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261104094100 +0100" stop="20261104103600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Stawka większa niż życie</title>
+  </programme>
+  <programme start="20261104103600 +0100" stop="20261104112600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Polsat Romans Disco Gramy</title>
+  </programme>
+  <programme start="20261104112600 +0100" stop="20261104114800 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261104114800 +0100" stop="20261104121000 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261104121000 +0100" stop="20261104125400 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Gliniarze</title>
+  </programme>
+  <programme start="20261104125400 +0100" stop="20261104132700 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261104132700 +0100" stop="20261104135600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261104135600 +0100" stop="20261104145100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Stawka większa niż życie</title>
+  </programme>
+  <programme start="20261104145100 +0100" stop="20261104154100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Polsat Romans Disco Gramy</title>
+  </programme>
+  <programme start="20261104154100 +0100" stop="20261104160300 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261104160300 +0100" stop="20261104162500 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261104162500 +0100" stop="20261104170900 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Gliniarze</title>
+  </programme>
+  <programme start="20261104170900 +0100" stop="20261104174200 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261104174200 +0100" stop="20261104181100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261104181100 +0100" stop="20261104190600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Stawka większa niż życie</title>
+  </programme>
+  <programme start="20261104190600 +0100" stop="20261104195600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Polsat Romans Disco Gramy</title>
+  </programme>
+  <programme start="20261104195600 +0100" stop="20261104201800 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261104201800 +0100" stop="20261104204000 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261104204000 +0100" stop="20261104212400 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Gliniarze</title>
+  </programme>
+  <programme start="20261104212400 +0100" stop="20261104215700 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261104215700 +0100" stop="20261104222600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261104222600 +0100" stop="20261104232100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Stawka większa niż życie</title>
+  </programme>
+  <programme start="20261104232100 +0100" stop="20261105001100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Polsat Romans Disco Gramy</title>
+  </programme>
+  <programme start="20261105001100 +0100" stop="20261105003300 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261105003300 +0100" stop="20261105005500 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261105005500 +0100" stop="20261105013900 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Gliniarze</title>
+  </programme>
+  <programme start="20261105013900 +0100" stop="20261105021200 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261105021200 +0100" stop="20261105024100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261105024100 +0100" stop="20261105033600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Stawka większa niż życie</title>
+  </programme>
+  <programme start="20261105033600 +0100" stop="20261105042600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Polsat Romans Disco Gramy</title>
+  </programme>
+  <programme start="20261105042600 +0100" stop="20261105044800 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261105044800 +0100" stop="20261105051000 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261105051000 +0100" stop="20261105055400 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Gliniarze</title>
+  </programme>
+  <programme start="20261105055400 +0100" stop="20261105062700 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261105062700 +0100" stop="20261105065600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261105065600 +0100" stop="20261105075100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Stawka większa niż życie</title>
+  </programme>
+  <programme start="20261105075100 +0100" stop="20261105084100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Polsat Romans Disco Gramy</title>
+  </programme>
+  <programme start="20261105084100 +0100" stop="20261105090300 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261105090300 +0100" stop="20261105092500 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261105092500 +0100" stop="20261105100900 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Gliniarze</title>
+  </programme>
+  <programme start="20261105100900 +0100" stop="20261105104200 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261105104200 +0100" stop="20261105111100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261105111100 +0100" stop="20261105120600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Stawka większa niż życie</title>
+  </programme>
+  <programme start="20261105120600 +0100" stop="20261105125600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Polsat Romans Disco Gramy</title>
+  </programme>
+  <programme start="20261105125600 +0100" stop="20261105131800 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261105131800 +0100" stop="20261105134000 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261105134000 +0100" stop="20261105142400 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Gliniarze</title>
+  </programme>
+  <programme start="20261105142400 +0100" stop="20261105145700 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261105145700 +0100" stop="20261105152600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261105152600 +0100" stop="20261105162100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Stawka większa niż życie</title>
+  </programme>
+  <programme start="20261105162100 +0100" stop="20261105171100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Polsat Romans Disco Gramy</title>
+  </programme>
+  <programme start="20261105171100 +0100" stop="20261105173300 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261105173300 +0100" stop="20261105175500 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261105175500 +0100" stop="20261105183900 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Gliniarze</title>
+  </programme>
+  <programme start="20261105183900 +0100" stop="20261105191200 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261105191200 +0100" stop="20261105194100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261105194100 +0100" stop="20261105203600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Stawka większa niż życie</title>
+  </programme>
+  <programme start="20261105203600 +0100" stop="20261105212600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Polsat Romans Disco Gramy</title>
+  </programme>
+  <programme start="20261105212600 +0100" stop="20261105214800 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261105214800 +0100" stop="20261105221000 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261105221000 +0100" stop="20261105225400 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Gliniarze</title>
+  </programme>
+  <programme start="20261105225400 +0100" stop="20261105232700 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261105232700 +0100" stop="20261105235600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261105235600 +0100" stop="20261106005100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Stawka większa niż życie</title>
+  </programme>
+  <programme start="20261106005100 +0100" stop="20261106014100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Polsat Romans Disco Gramy</title>
+  </programme>
+  <programme start="20261106014100 +0100" stop="20261106020300 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261106020300 +0100" stop="20261106022500 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261106022500 +0100" stop="20261106030900 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Gliniarze</title>
+  </programme>
+  <programme start="20261106030900 +0100" stop="20261106034200 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261106034200 +0100" stop="20261106041100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261106041100 +0100" stop="20261106050600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Stawka większa niż życie</title>
+  </programme>
+  <programme start="20261106050600 +0100" stop="20261106055600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Polsat Romans Disco Gramy</title>
+  </programme>
+  <programme start="20261106055600 +0100" stop="20261106061800 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261106061800 +0100" stop="20261106064000 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261106064000 +0100" stop="20261106072400 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Gliniarze</title>
+  </programme>
+  <programme start="20261106072400 +0100" stop="20261106075700 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261106075700 +0100" stop="20261106082600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261106082600 +0100" stop="20261106092100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Stawka większa niż życie</title>
+  </programme>
+  <programme start="20261106092100 +0100" stop="20261106101100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Polsat Romans Disco Gramy</title>
+  </programme>
+  <programme start="20261106101100 +0100" stop="20261106103300 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261106103300 +0100" stop="20261106105500 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261106105500 +0100" stop="20261106113900 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Gliniarze</title>
+  </programme>
+  <programme start="20261106113900 +0100" stop="20261106121200 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261106121200 +0100" stop="20261106124100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261106124100 +0100" stop="20261106133600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Stawka większa niż życie</title>
+  </programme>
+  <programme start="20261106133600 +0100" stop="20261106142600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Polsat Romans Disco Gramy</title>
+  </programme>
+  <programme start="20261106142600 +0100" stop="20261106144800 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261106144800 +0100" stop="20261106151000 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261106151000 +0100" stop="20261106155400 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Gliniarze</title>
+  </programme>
+  <programme start="20261106155400 +0100" stop="20261106162700 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261106162700 +0100" stop="20261106165600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261106165600 +0100" stop="20261106175100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Stawka większa niż życie</title>
+  </programme>
+  <programme start="20261106175100 +0100" stop="20261106184100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Polsat Romans Disco Gramy</title>
+  </programme>
+  <programme start="20261106184100 +0100" stop="20261106190300 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261106190300 +0100" stop="20261106192500 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261106192500 +0100" stop="20261106200900 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Gliniarze</title>
+  </programme>
+  <programme start="20261106200900 +0100" stop="20261106204200 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261106204200 +0100" stop="20261106211100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261106211100 +0100" stop="20261106220600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Stawka większa niż życie</title>
+  </programme>
+  <programme start="20261106220600 +0100" stop="20261106225600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Polsat Romans Disco Gramy</title>
+  </programme>
+  <programme start="20261106225600 +0100" stop="20261106231800 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261106231800 +0100" stop="20261106234000 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261106234000 +0100" stop="20261107002400 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Gliniarze</title>
+  </programme>
+  <programme start="20261107002400 +0100" stop="20261107005700 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261107005700 +0100" stop="20261107012600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261107012600 +0100" stop="20261107022100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Stawka większa niż życie</title>
+  </programme>
+  <programme start="20261107022100 +0100" stop="20261107031100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Polsat Romans Disco Gramy</title>
+  </programme>
+  <programme start="20261107031100 +0100" stop="20261107033300 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261107033300 +0100" stop="20261107035500 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261107035500 +0100" stop="20261107043900 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Gliniarze</title>
+  </programme>
+  <programme start="20261107043900 +0100" stop="20261107051200 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261107051200 +0100" stop="20261107054100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261107054100 +0100" stop="20261107063600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Stawka większa niż życie</title>
+  </programme>
+  <programme start="20261107063600 +0100" stop="20261107072600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Polsat Romans Disco Gramy</title>
+  </programme>
+  <programme start="20261107072600 +0100" stop="20261107074800 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261107074800 +0100" stop="20261107081000 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261107081000 +0100" stop="20261107085400 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Gliniarze</title>
+  </programme>
+  <programme start="20261107085400 +0100" stop="20261107092700 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261107092700 +0100" stop="20261107095600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261107095600 +0100" stop="20261107105100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Stawka większa niż życie</title>
+  </programme>
+  <programme start="20261107105100 +0100" stop="20261107114100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Polsat Romans Disco Gramy</title>
+  </programme>
+  <programme start="20261107114100 +0100" stop="20261107120300 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261107120300 +0100" stop="20261107122500 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261107122500 +0100" stop="20261107130900 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Gliniarze</title>
+  </programme>
+  <programme start="20261107130900 +0100" stop="20261107134200 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261107134200 +0100" stop="20261107141100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261107141100 +0100" stop="20261107150600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Stawka większa niż życie</title>
+  </programme>
+  <programme start="20261107150600 +0100" stop="20261107155600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Polsat Romans Disco Gramy</title>
+  </programme>
+  <programme start="20261107155600 +0100" stop="20261107161800 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261107161800 +0100" stop="20261107164000 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261107164000 +0100" stop="20261107172400 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Gliniarze</title>
+  </programme>
+  <programme start="20261107172400 +0100" stop="20261107175700 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261107175700 +0100" stop="20261107182600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261107182600 +0100" stop="20261107192100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Stawka większa niż życie</title>
+  </programme>
+  <programme start="20261107192100 +0100" stop="20261107201100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Polsat Romans Disco Gramy</title>
+  </programme>
+  <programme start="20261107201100 +0100" stop="20261107203300 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261107203300 +0100" stop="20261107205500 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261107205500 +0100" stop="20261107213900 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Gliniarze</title>
+  </programme>
+  <programme start="20261107213900 +0100" stop="20261107221200 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261107221200 +0100" stop="20261107224100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261107224100 +0100" stop="20261107233600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Stawka większa niż życie</title>
+  </programme>
+  <programme start="20261107233600 +0100" stop="20261108002600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Polsat Romans Disco Gramy</title>
+  </programme>
+  <programme start="20261108002600 +0100" stop="20261108004800 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261108004800 +0100" stop="20261108011000 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261108011000 +0100" stop="20261108015400 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Gliniarze</title>
+  </programme>
+  <programme start="20261108015400 +0100" stop="20261108022700 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261108022700 +0100" stop="20261108025600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261108025600 +0100" stop="20261108035100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Stawka większa niż życie</title>
+  </programme>
+  <programme start="20261108035100 +0100" stop="20261108044100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Polsat Romans Disco Gramy</title>
+  </programme>
+  <programme start="20261108044100 +0100" stop="20261108050300 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261108050300 +0100" stop="20261108052500 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261108052500 +0100" stop="20261108060900 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Gliniarze</title>
+  </programme>
+  <programme start="20261108060900 +0100" stop="20261108064200 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261108064200 +0100" stop="20261108071100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261108071100 +0100" stop="20261108080600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Stawka większa niż życie</title>
+  </programme>
+  <programme start="20261108080600 +0100" stop="20261108085600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Polsat Romans Disco Gramy</title>
+  </programme>
+  <programme start="20261108085600 +0100" stop="20261108091800 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261108091800 +0100" stop="20261108094000 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261108094000 +0100" stop="20261108102400 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Gliniarze</title>
+  </programme>
+  <programme start="20261108102400 +0100" stop="20261108105700 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261108105700 +0100" stop="20261108112600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261108112600 +0100" stop="20261108122100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Stawka większa niż życie</title>
+  </programme>
+  <programme start="20261108122100 +0100" stop="20261108131100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Polsat Romans Disco Gramy</title>
+  </programme>
+  <programme start="20261108131100 +0100" stop="20261108133300 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261108133300 +0100" stop="20261108135500 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261108135500 +0100" stop="20261108143900 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Gliniarze</title>
+  </programme>
+  <programme start="20261108143900 +0100" stop="20261108151200 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261108151200 +0100" stop="20261108154100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261108154100 +0100" stop="20261108163600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Stawka większa niż życie</title>
+  </programme>
+  <programme start="20261108163600 +0100" stop="20261108172600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Polsat Romans Disco Gramy</title>
+  </programme>
+  <programme start="20261108172600 +0100" stop="20261108174800 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261108174800 +0100" stop="20261108181000 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261108181000 +0100" stop="20261108185400 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Gliniarze</title>
+  </programme>
+  <programme start="20261108185400 +0100" stop="20261108192700 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261108192700 +0100" stop="20261108195600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261108195600 +0100" stop="20261108205100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Stawka większa niż życie</title>
+  </programme>
+  <programme start="20261108205100 +0100" stop="20261108214100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Polsat Romans Disco Gramy</title>
+  </programme>
+  <programme start="20261108214100 +0100" stop="20261108220300 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261108220300 +0100" stop="20261108222500 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261108222500 +0100" stop="20261108230900 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Gliniarze</title>
+  </programme>
+  <programme start="20261108230900 +0100" stop="20261108234200 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261108234200 +0100" stop="20261109001100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261109001100 +0100" stop="20261109010600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Stawka większa niż życie</title>
+  </programme>
+  <programme start="20261109010600 +0100" stop="20261109015600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Polsat Romans Disco Gramy</title>
+  </programme>
+  <programme start="20261109015600 +0100" stop="20261109021800 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261109021800 +0100" stop="20261109024000 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261109024000 +0100" stop="20261109032400 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Gliniarze</title>
+  </programme>
+  <programme start="20261109032400 +0100" stop="20261109035700 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261109035700 +0100" stop="20261109042600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261109042600 +0100" stop="20261109052100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Stawka większa niż życie</title>
+  </programme>
+  <programme start="20261109052100 +0100" stop="20261109061100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Polsat Romans Disco Gramy</title>
+  </programme>
+  <programme start="20261109061100 +0100" stop="20261109063300 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261109063300 +0100" stop="20261109065500 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261109065500 +0100" stop="20261109073900 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Gliniarze</title>
+  </programme>
+  <programme start="20261109073900 +0100" stop="20261109081200 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261109081200 +0100" stop="20261109084100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261109084100 +0100" stop="20261109093600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Stawka większa niż życie</title>
+  </programme>
+  <programme start="20261109093600 +0100" stop="20261109102600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Polsat Romans Disco Gramy</title>
+  </programme>
+  <programme start="20261109102600 +0100" stop="20261109104800 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261109104800 +0100" stop="20261109111000 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261109111000 +0100" stop="20261109115400 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Gliniarze</title>
+  </programme>
+  <programme start="20261109115400 +0100" stop="20261109122700 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261109122700 +0100" stop="20261109125600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261109125600 +0100" stop="20261109135100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Stawka większa niż życie</title>
+  </programme>
+  <programme start="20261109135100 +0100" stop="20261109144100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Polsat Romans Disco Gramy</title>
+  </programme>
+  <programme start="20261109144100 +0100" stop="20261109150300 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261109150300 +0100" stop="20261109152500 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261109152500 +0100" stop="20261109160900 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Gliniarze</title>
+  </programme>
+  <programme start="20261109160900 +0100" stop="20261109164200 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261109164200 +0100" stop="20261109171100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261109171100 +0100" stop="20261109180600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Stawka większa niż życie</title>
+  </programme>
+  <programme start="20261109180600 +0100" stop="20261109185600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Polsat Romans Disco Gramy</title>
+  </programme>
+  <programme start="20261109185600 +0100" stop="20261109191800 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261109191800 +0100" stop="20261109194000 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261109194000 +0100" stop="20261109202400 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Gliniarze</title>
+  </programme>
+  <programme start="20261109202400 +0100" stop="20261109205700 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261109205700 +0100" stop="20261109212600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261109212600 +0100" stop="20261109222100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Stawka większa niż życie</title>
+  </programme>
+  <programme start="20261109222100 +0100" stop="20261109231100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Polsat Romans Disco Gramy</title>
+  </programme>
+  <programme start="20261109231100 +0100" stop="20261109233300 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261109233300 +0100" stop="20261109235500 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261109235500 +0100" stop="20261110003900 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Gliniarze</title>
+  </programme>
+  <programme start="20261110003900 +0100" stop="20261110011200 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261110011200 +0100" stop="20261110014100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261110014100 +0100" stop="20261110023600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Stawka większa niż życie</title>
+  </programme>
+  <programme start="20261110023600 +0100" stop="20261110032600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Polsat Romans Disco Gramy</title>
+  </programme>
+  <programme start="20261110032600 +0100" stop="20261110034800 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261110034800 +0100" stop="20261110041000 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261110041000 +0100" stop="20261110045400 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Gliniarze</title>
+  </programme>
+  <programme start="20261110045400 +0100" stop="20261110052700 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261110052700 +0100" stop="20261110055600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261110055600 +0100" stop="20261110065100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Stawka większa niż życie</title>
+  </programme>
+  <programme start="20261110065100 +0100" stop="20261110074100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Polsat Romans Disco Gramy</title>
+  </programme>
+  <programme start="20261110074100 +0100" stop="20261110080300 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261110080300 +0100" stop="20261110082500 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261110082500 +0100" stop="20261110090900 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Gliniarze</title>
+  </programme>
+  <programme start="20261110090900 +0100" stop="20261110094200 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261110094200 +0100" stop="20261110101100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261110101100 +0100" stop="20261110110600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Stawka większa niż życie</title>
+  </programme>
+  <programme start="20261110110600 +0100" stop="20261110115600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Polsat Romans Disco Gramy</title>
+  </programme>
+  <programme start="20261110115600 +0100" stop="20261110121800 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261110121800 +0100" stop="20261110124000 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261110124000 +0100" stop="20261110132400 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Gliniarze</title>
+  </programme>
+  <programme start="20261110132400 +0100" stop="20261110135700 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261110135700 +0100" stop="20261110142600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261110142600 +0100" stop="20261110152100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Stawka większa niż życie</title>
+  </programme>
+  <programme start="20261110152100 +0100" stop="20261110161100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Polsat Romans Disco Gramy</title>
+  </programme>
+  <programme start="20261110161100 +0100" stop="20261110163300 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261110163300 +0100" stop="20261110165500 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261110165500 +0100" stop="20261110173900 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Gliniarze</title>
+  </programme>
+  <programme start="20261110173900 +0100" stop="20261110181200 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261110181200 +0100" stop="20261110184100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261110184100 +0100" stop="20261110193600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Stawka większa niż życie</title>
+  </programme>
+  <programme start="20261110193600 +0100" stop="20261110202600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Polsat Romans Disco Gramy</title>
+  </programme>
+  <programme start="20261110202600 +0100" stop="20261110204800 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261110204800 +0100" stop="20261110211000 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261110211000 +0100" stop="20261110215400 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Gliniarze</title>
+  </programme>
+  <programme start="20261110215400 +0100" stop="20261110222700 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261110222700 +0100" stop="20261110225600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261110225600 +0100" stop="20261110235100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Stawka większa niż życie</title>
+  </programme>
+  <programme start="20261110235100 +0100" stop="20261111004100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Polsat Romans Disco Gramy</title>
+  </programme>
+  <programme start="20261111004100 +0100" stop="20261111010300 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261111010300 +0100" stop="20261111012500 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261111012500 +0100" stop="20261111020900 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Gliniarze</title>
+  </programme>
+  <programme start="20261111020900 +0100" stop="20261111024200 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261111024200 +0100" stop="20261111031100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261111031100 +0100" stop="20261111040600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Stawka większa niż życie</title>
+  </programme>
+  <programme start="20261111040600 +0100" stop="20261111045600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Polsat Romans Disco Gramy</title>
+  </programme>
+  <programme start="20261111045600 +0100" stop="20261111051800 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261111051800 +0100" stop="20261111054000 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261111054000 +0100" stop="20261111062400 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Gliniarze</title>
+  </programme>
+  <programme start="20261111062400 +0100" stop="20261111065700 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261111065700 +0100" stop="20261111072600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261111072600 +0100" stop="20261111082100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Stawka większa niż życie</title>
+  </programme>
+  <programme start="20261111082100 +0100" stop="20261111091100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Polsat Romans Disco Gramy</title>
+  </programme>
+  <programme start="20261111091100 +0100" stop="20261111093300 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261111093300 +0100" stop="20261111095500 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261111095500 +0100" stop="20261111103900 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Gliniarze</title>
+  </programme>
+  <programme start="20261111103900 +0100" stop="20261111111200 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261111111200 +0100" stop="20261111114100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261111114100 +0100" stop="20261111123600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Stawka większa niż życie</title>
+  </programme>
+  <programme start="20261111123600 +0100" stop="20261111132600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Polsat Romans Disco Gramy</title>
+  </programme>
+  <programme start="20261111132600 +0100" stop="20261111134800 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261111134800 +0100" stop="20261111141000 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261111141000 +0100" stop="20261111145400 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Gliniarze</title>
+  </programme>
+  <programme start="20261111145400 +0100" stop="20261111152700 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261111152700 +0100" stop="20261111155600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261111155600 +0100" stop="20261111165100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Stawka większa niż życie</title>
+  </programme>
+  <programme start="20261111165100 +0100" stop="20261111174100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Polsat Romans Disco Gramy</title>
+  </programme>
+  <programme start="20261111174100 +0100" stop="20261111180300 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261111180300 +0100" stop="20261111182500 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261111182500 +0100" stop="20261111190900 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Gliniarze</title>
+  </programme>
+  <programme start="20261111190900 +0100" stop="20261111194200 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261111194200 +0100" stop="20261111201100 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261111201100 +0100" stop="20261111210600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Stawka większa niż życie</title>
+  </programme>
+  <programme start="20261111210600 +0100" stop="20261111215600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Polsat Romans Disco Gramy</title>
+  </programme>
+  <programme start="20261111215600 +0100" stop="20261111221800 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261111221800 +0100" stop="20261111224000 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261111224000 +0100" stop="20261111232400 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Gliniarze</title>
+  </programme>
+  <programme start="20261111232400 +0100" stop="20261111235700 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261111235700 +0100" stop="20261112002600 +0100" channel="polsat_romans_disco">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+</tv>
