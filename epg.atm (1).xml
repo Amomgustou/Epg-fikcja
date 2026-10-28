@@ -1,0 +1,1755 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="MojEPGGenerator">
+  <channel id="atm.rozrywka">
+    <display-name lang="pl">ATM Rozrywka</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/b/b3/ATM_Rozrywka_logo_2012-2021.svg" />
+  </channel>
+  <!-- RUNDA 1 -->
+  <programme start="20261028074900 +0100" stop="20261028075100 +0100" channel="atm.rozrywka">
+    <title lang="pl">Pitu pitu</title>
+  </programme>
+  <programme start="20261028075100 +0100" stop="20261028080800 +0100" channel="atm.rozrywka">
+    <title lang="pl">Ewa gotuje</title>
+  </programme>
+  <programme start="20261028080800 +0100" stop="20261028085300 +0100" channel="atm.rozrywka">
+    <title lang="pl">Gang Olsena</title>
+  </programme>
+  <programme start="20261028085300 +0100" stop="20261028094800 +0100" channel="atm.rozrywka">
+    <title lang="pl">Pod jednym dachem</title>
+  </programme>
+  <programme start="20261028094800 +0100" stop="20261028103600 +0100" channel="atm.rozrywka">
+    <title lang="pl">Awantura o kasę</title>
+  </programme>
+  <programme start="20261028103600 +0100" stop="20261028111600 +0100" channel="atm.rozrywka">
+    <title lang="pl">Awantura o kasę</title>
+  </programme>
+  <programme start="20261028111600 +0100" stop="20261028120700 +0100" channel="atm.rozrywka">
+    <title lang="pl">Disco gramy</title>
+  </programme>
+  <programme start="20261028120700 +0100" stop="20261028123500 +0100" channel="atm.rozrywka">
+    <title lang="pl">Daleko od noszy</title>
+  </programme>
+  <programme start="20261028123500 +0100" stop="20261028132000 +0100" channel="atm.rozrywka">
+    <title lang="pl">Joker</title>
+  </programme>
+  <programme start="20261028132000 +0100" stop="20261028134200 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261028134200 +0100" stop="20261028140400 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261028140400 +0100" stop="20261028145800 +0100" channel="atm.rozrywka">
+    <title lang="pl">Cobra - oddział specjalny</title>
+  </programme>
+  <programme start="20261028145800 +0100" stop="20261028155000 +0100" channel="atm.rozrywka">
+    <title lang="pl">Cobra - oddział specjalny</title>
+  </programme>
+  <programme start="20261028155000 +0100" stop="20261028162100 +0100" channel="atm.rozrywka">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261028162100 +0100" stop="20261028164200 +0100" channel="atm.rozrywka">
+    <title lang="pl">Włatcy móch: The Best Of</title>
+  </programme>
+  <programme start="20261028164200 +0100" stop="20261028170400 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261028170400 +0100" stop="20261028172600 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261028172600 +0100" stop="20261028175300 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261028175300 +0100" stop="20261028183600 +0100" channel="atm.rozrywka">
+    <title lang="pl">Fala zbrodni</title>
+  </programme>
+  <programme start="20261028183600 +0100" stop="20261028192100 +0100" channel="atm.rozrywka">
+    <title lang="pl">Gra w ciemno</title>
+  </programme>
+  <programme start="20261028192100 +0100" stop="20261028194600 +0100" channel="atm.rozrywka">
+    <title lang="pl">13 posterunek</title>
+  </programme>
+  <programme start="20261028194600 +0100" stop="20261028203200 +0100" channel="atm.rozrywka">
+    <title lang="pl">Fala zbrodni</title>
+  </programme>
+  <programme start="20261028203200 +0100" stop="20261028212100 +0100" channel="atm.rozrywka">
+    <title lang="pl">Ranczo</title>
+  </programme>
+  <programme start="20261028212100 +0100" stop="20261028214600 +0100" channel="atm.rozrywka">
+    <title lang="pl">Familiada</title>
+  </programme>
+  <programme start="20261028214600 +0100" stop="20261028220700 +0100" channel="atm.rozrywka">
+    <title lang="pl">Graczykowie</title>
+  </programme>
+  <!-- RUNDA 2 -->
+  <programme start="20261028220700 +0100" stop="20261028220900 +0100" channel="atm.rozrywka">
+    <title lang="pl">Pitu pitu</title>
+  </programme>
+  <programme start="20261028220900 +0100" stop="20261028222600 +0100" channel="atm.rozrywka">
+    <title lang="pl">Ewa gotuje</title>
+  </programme>
+  <programme start="20261028222600 +0100" stop="20261028231100 +0100" channel="atm.rozrywka">
+    <title lang="pl">Gang Olsena</title>
+  </programme>
+  <programme start="20261028231100 +0100" stop="20261029000600 +0100" channel="atm.rozrywka">
+    <title lang="pl">Pod jednym dachem</title>
+  </programme>
+  <programme start="20261029000600 +0100" stop="20261029005400 +0100" channel="atm.rozrywka">
+    <title lang="pl">Awantura o kasę</title>
+  </programme>
+  <programme start="20261029005400 +0100" stop="20261029013400 +0100" channel="atm.rozrywka">
+    <title lang="pl">Awantura o kasę</title>
+  </programme>
+  <programme start="20261029013400 +0100" stop="20261029022500 +0100" channel="atm.rozrywka">
+    <title lang="pl">Disco gramy</title>
+  </programme>
+  <programme start="20261029022500 +0100" stop="20261029025300 +0100" channel="atm.rozrywka">
+    <title lang="pl">Daleko od noszy</title>
+  </programme>
+  <programme start="20261029025300 +0100" stop="20261029033800 +0100" channel="atm.rozrywka">
+    <title lang="pl">Joker</title>
+  </programme>
+  <programme start="20261029033800 +0100" stop="20261029040000 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261029040000 +0100" stop="20261029042200 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261029042200 +0100" stop="20261029051600 +0100" channel="atm.rozrywka">
+    <title lang="pl">Cobra - oddział specjalny</title>
+  </programme>
+  <programme start="20261029051600 +0100" stop="20261029060800 +0100" channel="atm.rozrywka">
+    <title lang="pl">Cobra - oddział specjalny</title>
+  </programme>
+  <programme start="20261029060800 +0100" stop="20261029063900 +0100" channel="atm.rozrywka">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261029063900 +0100" stop="20261029070000 +0100" channel="atm.rozrywka">
+    <title lang="pl">Włatcy móch: The Best Of</title>
+  </programme>
+  <programme start="20261029070000 +0100" stop="20261029072200 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261029072200 +0100" stop="20261029074400 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261029074400 +0100" stop="20261029081100 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261029081100 +0100" stop="20261029085400 +0100" channel="atm.rozrywka">
+    <title lang="pl">Fala zbrodni</title>
+  </programme>
+  <programme start="20261029085400 +0100" stop="20261029093900 +0100" channel="atm.rozrywka">
+    <title lang="pl">Gra w ciemno</title>
+  </programme>
+  <programme start="20261029093900 +0100" stop="20261029100400 +0100" channel="atm.rozrywka">
+    <title lang="pl">13 posterunek</title>
+  </programme>
+  <programme start="20261029100400 +0100" stop="20261029105000 +0100" channel="atm.rozrywka">
+    <title lang="pl">Fala zbrodni</title>
+  </programme>
+  <programme start="20261029105000 +0100" stop="20261029113900 +0100" channel="atm.rozrywka">
+    <title lang="pl">Ranczo</title>
+  </programme>
+  <programme start="20261029113900 +0100" stop="20261029120400 +0100" channel="atm.rozrywka">
+    <title lang="pl">Familiada</title>
+  </programme>
+  <programme start="20261029120400 +0100" stop="20261029122500 +0100" channel="atm.rozrywka">
+    <title lang="pl">Graczykowie</title>
+  </programme>
+  <!-- RUNDA 3 -->
+  <programme start="20261029122500 +0100" stop="20261029122700 +0100" channel="atm.rozrywka">
+    <title lang="pl">Pitu pitu</title>
+  </programme>
+  <programme start="20261029122700 +0100" stop="20261029124400 +0100" channel="atm.rozrywka">
+    <title lang="pl">Ewa gotuje</title>
+  </programme>
+  <programme start="20261029124400 +0100" stop="20261029132900 +0100" channel="atm.rozrywka">
+    <title lang="pl">Gang Olsena</title>
+  </programme>
+  <programme start="20261029132900 +0100" stop="20261029142400 +0100" channel="atm.rozrywka">
+    <title lang="pl">Pod jednym dachem</title>
+  </programme>
+  <programme start="20261029142400 +0100" stop="20261029151200 +0100" channel="atm.rozrywka">
+    <title lang="pl">Awantura o kasę</title>
+  </programme>
+  <programme start="20261029151200 +0100" stop="20261029155200 +0100" channel="atm.rozrywka">
+    <title lang="pl">Awantura o kasę</title>
+  </programme>
+  <programme start="20261029155200 +0100" stop="20261029164300 +0100" channel="atm.rozrywka">
+    <title lang="pl">Disco gramy</title>
+  </programme>
+  <programme start="20261029164300 +0100" stop="20261029171100 +0100" channel="atm.rozrywka">
+    <title lang="pl">Daleko od noszy</title>
+  </programme>
+  <programme start="20261029171100 +0100" stop="20261029175600 +0100" channel="atm.rozrywka">
+    <title lang="pl">Joker</title>
+  </programme>
+  <programme start="20261029175600 +0100" stop="20261029181800 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261029181800 +0100" stop="20261029184000 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261029184000 +0100" stop="20261029193400 +0100" channel="atm.rozrywka">
+    <title lang="pl">Cobra - oddział specjalny</title>
+  </programme>
+  <programme start="20261029193400 +0100" stop="20261029202600 +0100" channel="atm.rozrywka">
+    <title lang="pl">Cobra - oddział specjalny</title>
+  </programme>
+  <programme start="20261029202600 +0100" stop="20261029205700 +0100" channel="atm.rozrywka">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261029205700 +0100" stop="20261029211800 +0100" channel="atm.rozrywka">
+    <title lang="pl">Włatcy móch: The Best Of</title>
+  </programme>
+  <programme start="20261029211800 +0100" stop="20261029214000 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261029214000 +0100" stop="20261029220200 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261029220200 +0100" stop="20261029222900 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261029222900 +0100" stop="20261029231200 +0100" channel="atm.rozrywka">
+    <title lang="pl">Fala zbrodni</title>
+  </programme>
+  <programme start="20261029231200 +0100" stop="20261029235700 +0100" channel="atm.rozrywka">
+    <title lang="pl">Gra w ciemno</title>
+  </programme>
+  <programme start="20261029235700 +0100" stop="20261030002200 +0100" channel="atm.rozrywka">
+    <title lang="pl">13 posterunek</title>
+  </programme>
+  <programme start="20261030002200 +0100" stop="20261030010800 +0100" channel="atm.rozrywka">
+    <title lang="pl">Fala zbrodni</title>
+  </programme>
+  <programme start="20261030010800 +0100" stop="20261030015700 +0100" channel="atm.rozrywka">
+    <title lang="pl">Ranczo</title>
+  </programme>
+  <programme start="20261030015700 +0100" stop="20261030022200 +0100" channel="atm.rozrywka">
+    <title lang="pl">Familiada</title>
+  </programme>
+  <programme start="20261030022200 +0100" stop="20261030024300 +0100" channel="atm.rozrywka">
+    <title lang="pl">Graczykowie</title>
+  </programme>
+  <!-- RUNDA 4 -->
+  <programme start="20261030024300 +0100" stop="20261030024500 +0100" channel="atm.rozrywka">
+    <title lang="pl">Pitu pitu</title>
+  </programme>
+  <programme start="20261030024500 +0100" stop="20261030030200 +0100" channel="atm.rozrywka">
+    <title lang="pl">Ewa gotuje</title>
+  </programme>
+  <programme start="20261030030200 +0100" stop="20261030034700 +0100" channel="atm.rozrywka">
+    <title lang="pl">Gang Olsena</title>
+  </programme>
+  <programme start="20261030034700 +0100" stop="20261030044200 +0100" channel="atm.rozrywka">
+    <title lang="pl">Pod jednym dachem</title>
+  </programme>
+  <programme start="20261030044200 +0100" stop="20261030053000 +0100" channel="atm.rozrywka">
+    <title lang="pl">Awantura o kasę</title>
+  </programme>
+  <programme start="20261030053000 +0100" stop="20261030061000 +0100" channel="atm.rozrywka">
+    <title lang="pl">Awantura o kasę</title>
+  </programme>
+  <programme start="20261030061000 +0100" stop="20261030070100 +0100" channel="atm.rozrywka">
+    <title lang="pl">Disco gramy</title>
+  </programme>
+  <programme start="20261030070100 +0100" stop="20261030072900 +0100" channel="atm.rozrywka">
+    <title lang="pl">Daleko od noszy</title>
+  </programme>
+  <programme start="20261030072900 +0100" stop="20261030081400 +0100" channel="atm.rozrywka">
+    <title lang="pl">Joker</title>
+  </programme>
+  <programme start="20261030081400 +0100" stop="20261030083600 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261030083600 +0100" stop="20261030085800 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261030085800 +0100" stop="20261030095200 +0100" channel="atm.rozrywka">
+    <title lang="pl">Cobra - oddział specjalny</title>
+  </programme>
+  <programme start="20261030095200 +0100" stop="20261030104400 +0100" channel="atm.rozrywka">
+    <title lang="pl">Cobra - oddział specjalny</title>
+  </programme>
+  <programme start="20261030104400 +0100" stop="20261030111500 +0100" channel="atm.rozrywka">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261030111500 +0100" stop="20261030113600 +0100" channel="atm.rozrywka">
+    <title lang="pl">Włatcy móch: The Best Of</title>
+  </programme>
+  <programme start="20261030113600 +0100" stop="20261030115800 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261030115800 +0100" stop="20261030122000 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261030122000 +0100" stop="20261030124700 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261030124700 +0100" stop="20261030133000 +0100" channel="atm.rozrywka">
+    <title lang="pl">Fala zbrodni</title>
+  </programme>
+  <programme start="20261030133000 +0100" stop="20261030141500 +0100" channel="atm.rozrywka">
+    <title lang="pl">Gra w ciemno</title>
+  </programme>
+  <programme start="20261030141500 +0100" stop="20261030144000 +0100" channel="atm.rozrywka">
+    <title lang="pl">13 posterunek</title>
+  </programme>
+  <programme start="20261030144000 +0100" stop="20261030152600 +0100" channel="atm.rozrywka">
+    <title lang="pl">Fala zbrodni</title>
+  </programme>
+  <programme start="20261030152600 +0100" stop="20261030161500 +0100" channel="atm.rozrywka">
+    <title lang="pl">Ranczo</title>
+  </programme>
+  <programme start="20261030161500 +0100" stop="20261030164000 +0100" channel="atm.rozrywka">
+    <title lang="pl">Familiada</title>
+  </programme>
+  <programme start="20261030164000 +0100" stop="20261030170100 +0100" channel="atm.rozrywka">
+    <title lang="pl">Graczykowie</title>
+  </programme>
+  <!-- RUNDA 5 -->
+  <programme start="20261030170100 +0100" stop="20261030170300 +0100" channel="atm.rozrywka">
+    <title lang="pl">Pitu pitu</title>
+  </programme>
+  <programme start="20261030170300 +0100" stop="20261030172000 +0100" channel="atm.rozrywka">
+    <title lang="pl">Ewa gotuje</title>
+  </programme>
+  <programme start="20261030172000 +0100" stop="20261030180500 +0100" channel="atm.rozrywka">
+    <title lang="pl">Gang Olsena</title>
+  </programme>
+  <programme start="20261030180500 +0100" stop="20261030190000 +0100" channel="atm.rozrywka">
+    <title lang="pl">Pod jednym dachem</title>
+  </programme>
+  <programme start="20261030190000 +0100" stop="20261030194800 +0100" channel="atm.rozrywka">
+    <title lang="pl">Awantura o kasę</title>
+  </programme>
+  <programme start="20261030194800 +0100" stop="20261030202800 +0100" channel="atm.rozrywka">
+    <title lang="pl">Awantura o kasę</title>
+  </programme>
+  <programme start="20261030202800 +0100" stop="20261030211900 +0100" channel="atm.rozrywka">
+    <title lang="pl">Disco gramy</title>
+  </programme>
+  <programme start="20261030211900 +0100" stop="20261030214700 +0100" channel="atm.rozrywka">
+    <title lang="pl">Daleko od noszy</title>
+  </programme>
+  <programme start="20261030214700 +0100" stop="20261030223200 +0100" channel="atm.rozrywka">
+    <title lang="pl">Joker</title>
+  </programme>
+  <programme start="20261030223200 +0100" stop="20261030225400 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261030225400 +0100" stop="20261030231600 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261030231600 +0100" stop="20261031001000 +0100" channel="atm.rozrywka">
+    <title lang="pl">Cobra - oddział specjalny</title>
+  </programme>
+  <programme start="20261031001000 +0100" stop="20261031010200 +0100" channel="atm.rozrywka">
+    <title lang="pl">Cobra - oddział specjalny</title>
+  </programme>
+  <programme start="20261031010200 +0100" stop="20261031013300 +0100" channel="atm.rozrywka">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261031013300 +0100" stop="20261031015400 +0100" channel="atm.rozrywka">
+    <title lang="pl">Włatcy móch: The Best Of</title>
+  </programme>
+  <programme start="20261031015400 +0100" stop="20261031021600 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261031021600 +0100" stop="20261031023800 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261031023800 +0100" stop="20261031030500 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261031030500 +0100" stop="20261031034800 +0100" channel="atm.rozrywka">
+    <title lang="pl">Fala zbrodni</title>
+  </programme>
+  <programme start="20261031034800 +0100" stop="20261031043300 +0100" channel="atm.rozrywka">
+    <title lang="pl">Gra w ciemno</title>
+  </programme>
+  <programme start="20261031043300 +0100" stop="20261031045800 +0100" channel="atm.rozrywka">
+    <title lang="pl">13 posterunek</title>
+  </programme>
+  <programme start="20261031045800 +0100" stop="20261031054400 +0100" channel="atm.rozrywka">
+    <title lang="pl">Fala zbrodni</title>
+  </programme>
+  <programme start="20261031054400 +0100" stop="20261031063300 +0100" channel="atm.rozrywka">
+    <title lang="pl">Ranczo</title>
+  </programme>
+  <programme start="20261031063300 +0100" stop="20261031065800 +0100" channel="atm.rozrywka">
+    <title lang="pl">Familiada</title>
+  </programme>
+  <programme start="20261031065800 +0100" stop="20261031071900 +0100" channel="atm.rozrywka">
+    <title lang="pl">Graczykowie</title>
+  </programme>
+  <!-- RUNDA 6 -->
+  <programme start="20261031071900 +0100" stop="20261031072100 +0100" channel="atm.rozrywka">
+    <title lang="pl">Pitu pitu</title>
+  </programme>
+  <programme start="20261031072100 +0100" stop="20261031073800 +0100" channel="atm.rozrywka">
+    <title lang="pl">Ewa gotuje</title>
+  </programme>
+  <programme start="20261031073800 +0100" stop="20261031082300 +0100" channel="atm.rozrywka">
+    <title lang="pl">Gang Olsena</title>
+  </programme>
+  <programme start="20261031082300 +0100" stop="20261031091800 +0100" channel="atm.rozrywka">
+    <title lang="pl">Pod jednym dachem</title>
+  </programme>
+  <programme start="20261031091800 +0100" stop="20261031100600 +0100" channel="atm.rozrywka">
+    <title lang="pl">Awantura o kasę</title>
+  </programme>
+  <programme start="20261031100600 +0100" stop="20261031104600 +0100" channel="atm.rozrywka">
+    <title lang="pl">Awantura o kasę</title>
+  </programme>
+  <programme start="20261031104600 +0100" stop="20261031113700 +0100" channel="atm.rozrywka">
+    <title lang="pl">Disco gramy</title>
+  </programme>
+  <programme start="20261031113700 +0100" stop="20261031120500 +0100" channel="atm.rozrywka">
+    <title lang="pl">Daleko od noszy</title>
+  </programme>
+  <programme start="20261031120500 +0100" stop="20261031125000 +0100" channel="atm.rozrywka">
+    <title lang="pl">Joker</title>
+  </programme>
+  <programme start="20261031125000 +0100" stop="20261031131200 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261031131200 +0100" stop="20261031133400 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261031133400 +0100" stop="20261031142800 +0100" channel="atm.rozrywka">
+    <title lang="pl">Cobra - oddział specjalny</title>
+  </programme>
+  <programme start="20261031142800 +0100" stop="20261031152000 +0100" channel="atm.rozrywka">
+    <title lang="pl">Cobra - oddział specjalny</title>
+  </programme>
+  <programme start="20261031152000 +0100" stop="20261031155100 +0100" channel="atm.rozrywka">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261031155100 +0100" stop="20261031161200 +0100" channel="atm.rozrywka">
+    <title lang="pl">Włatcy móch: The Best Of</title>
+  </programme>
+  <programme start="20261031161200 +0100" stop="20261031163400 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261031163400 +0100" stop="20261031165600 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261031165600 +0100" stop="20261031172300 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261031172300 +0100" stop="20261031180600 +0100" channel="atm.rozrywka">
+    <title lang="pl">Fala zbrodni</title>
+  </programme>
+  <programme start="20261031180600 +0100" stop="20261031185100 +0100" channel="atm.rozrywka">
+    <title lang="pl">Gra w ciemno</title>
+  </programme>
+  <programme start="20261031185100 +0100" stop="20261031191600 +0100" channel="atm.rozrywka">
+    <title lang="pl">13 posterunek</title>
+  </programme>
+  <programme start="20261031191600 +0100" stop="20261031200200 +0100" channel="atm.rozrywka">
+    <title lang="pl">Fala zbrodni</title>
+  </programme>
+  <programme start="20261031200200 +0100" stop="20261031205100 +0100" channel="atm.rozrywka">
+    <title lang="pl">Ranczo</title>
+  </programme>
+  <programme start="20261031205100 +0100" stop="20261031211600 +0100" channel="atm.rozrywka">
+    <title lang="pl">Familiada</title>
+  </programme>
+  <programme start="20261031211600 +0100" stop="20261031213700 +0100" channel="atm.rozrywka">
+    <title lang="pl">Graczykowie</title>
+  </programme>
+  <!-- RUNDA 7 -->
+  <programme start="20261031213700 +0100" stop="20261031213900 +0100" channel="atm.rozrywka">
+    <title lang="pl">Pitu pitu</title>
+  </programme>
+  <programme start="20261031213900 +0100" stop="20261031215600 +0100" channel="atm.rozrywka">
+    <title lang="pl">Ewa gotuje</title>
+  </programme>
+  <programme start="20261031215600 +0100" stop="20261031224100 +0100" channel="atm.rozrywka">
+    <title lang="pl">Gang Olsena</title>
+  </programme>
+  <programme start="20261031224100 +0100" stop="20261031233600 +0100" channel="atm.rozrywka">
+    <title lang="pl">Pod jednym dachem</title>
+  </programme>
+  <programme start="20261031233600 +0100" stop="20261101002400 +0100" channel="atm.rozrywka">
+    <title lang="pl">Awantura o kasę</title>
+  </programme>
+  <programme start="20261101002400 +0100" stop="20261101010400 +0100" channel="atm.rozrywka">
+    <title lang="pl">Awantura o kasę</title>
+  </programme>
+  <programme start="20261101010400 +0100" stop="20261101015500 +0100" channel="atm.rozrywka">
+    <title lang="pl">Disco gramy</title>
+  </programme>
+  <programme start="20261101015500 +0100" stop="20261101022300 +0100" channel="atm.rozrywka">
+    <title lang="pl">Daleko od noszy</title>
+  </programme>
+  <programme start="20261101022300 +0100" stop="20261101030800 +0100" channel="atm.rozrywka">
+    <title lang="pl">Joker</title>
+  </programme>
+  <programme start="20261101030800 +0100" stop="20261101033000 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261101033000 +0100" stop="20261101035200 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261101035200 +0100" stop="20261101044600 +0100" channel="atm.rozrywka">
+    <title lang="pl">Cobra - oddział specjalny</title>
+  </programme>
+  <programme start="20261101044600 +0100" stop="20261101053800 +0100" channel="atm.rozrywka">
+    <title lang="pl">Cobra - oddział specjalny</title>
+  </programme>
+  <programme start="20261101053800 +0100" stop="20261101060900 +0100" channel="atm.rozrywka">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261101060900 +0100" stop="20261101063000 +0100" channel="atm.rozrywka">
+    <title lang="pl">Włatcy móch: The Best Of</title>
+  </programme>
+  <programme start="20261101063000 +0100" stop="20261101065200 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261101065200 +0100" stop="20261101071400 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261101071400 +0100" stop="20261101074100 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261101074100 +0100" stop="20261101082400 +0100" channel="atm.rozrywka">
+    <title lang="pl">Fala zbrodni</title>
+  </programme>
+  <programme start="20261101082400 +0100" stop="20261101090900 +0100" channel="atm.rozrywka">
+    <title lang="pl">Gra w ciemno</title>
+  </programme>
+  <programme start="20261101090900 +0100" stop="20261101093400 +0100" channel="atm.rozrywka">
+    <title lang="pl">13 posterunek</title>
+  </programme>
+  <programme start="20261101093400 +0100" stop="20261101102000 +0100" channel="atm.rozrywka">
+    <title lang="pl">Fala zbrodni</title>
+  </programme>
+  <programme start="20261101102000 +0100" stop="20261101110900 +0100" channel="atm.rozrywka">
+    <title lang="pl">Ranczo</title>
+  </programme>
+  <programme start="20261101110900 +0100" stop="20261101113400 +0100" channel="atm.rozrywka">
+    <title lang="pl">Familiada</title>
+  </programme>
+  <programme start="20261101113400 +0100" stop="20261101115500 +0100" channel="atm.rozrywka">
+    <title lang="pl">Graczykowie</title>
+  </programme>
+  <!-- RUNDA 8 -->
+  <programme start="20261101115500 +0100" stop="20261101115700 +0100" channel="atm.rozrywka">
+    <title lang="pl">Pitu pitu</title>
+  </programme>
+  <programme start="20261101115700 +0100" stop="20261101121400 +0100" channel="atm.rozrywka">
+    <title lang="pl">Ewa gotuje</title>
+  </programme>
+  <programme start="20261101121400 +0100" stop="20261101125900 +0100" channel="atm.rozrywka">
+    <title lang="pl">Gang Olsena</title>
+  </programme>
+  <programme start="20261101125900 +0100" stop="20261101135400 +0100" channel="atm.rozrywka">
+    <title lang="pl">Pod jednym dachem</title>
+  </programme>
+  <programme start="20261101135400 +0100" stop="20261101144200 +0100" channel="atm.rozrywka">
+    <title lang="pl">Awantura o kasę</title>
+  </programme>
+  <programme start="20261101144200 +0100" stop="20261101152200 +0100" channel="atm.rozrywka">
+    <title lang="pl">Awantura o kasę</title>
+  </programme>
+  <programme start="20261101152200 +0100" stop="20261101161300 +0100" channel="atm.rozrywka">
+    <title lang="pl">Disco gramy</title>
+  </programme>
+  <programme start="20261101161300 +0100" stop="20261101164100 +0100" channel="atm.rozrywka">
+    <title lang="pl">Daleko od noszy</title>
+  </programme>
+  <programme start="20261101164100 +0100" stop="20261101172600 +0100" channel="atm.rozrywka">
+    <title lang="pl">Joker</title>
+  </programme>
+  <programme start="20261101172600 +0100" stop="20261101174800 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261101174800 +0100" stop="20261101181000 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261101181000 +0100" stop="20261101190400 +0100" channel="atm.rozrywka">
+    <title lang="pl">Cobra - oddział specjalny</title>
+  </programme>
+  <programme start="20261101190400 +0100" stop="20261101195600 +0100" channel="atm.rozrywka">
+    <title lang="pl">Cobra - oddział specjalny</title>
+  </programme>
+  <programme start="20261101195600 +0100" stop="20261101202700 +0100" channel="atm.rozrywka">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261101202700 +0100" stop="20261101204800 +0100" channel="atm.rozrywka">
+    <title lang="pl">Włatcy móch: The Best Of</title>
+  </programme>
+  <programme start="20261101204800 +0100" stop="20261101211000 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261101211000 +0100" stop="20261101213200 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261101213200 +0100" stop="20261101215900 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261101215900 +0100" stop="20261101224200 +0100" channel="atm.rozrywka">
+    <title lang="pl">Fala zbrodni</title>
+  </programme>
+  <programme start="20261101224200 +0100" stop="20261101232700 +0100" channel="atm.rozrywka">
+    <title lang="pl">Gra w ciemno</title>
+  </programme>
+  <programme start="20261101232700 +0100" stop="20261101235200 +0100" channel="atm.rozrywka">
+    <title lang="pl">13 posterunek</title>
+  </programme>
+  <programme start="20261101235200 +0100" stop="20261102003800 +0100" channel="atm.rozrywka">
+    <title lang="pl">Fala zbrodni</title>
+  </programme>
+  <programme start="20261102003800 +0100" stop="20261102012700 +0100" channel="atm.rozrywka">
+    <title lang="pl">Ranczo</title>
+  </programme>
+  <programme start="20261102012700 +0100" stop="20261102015200 +0100" channel="atm.rozrywka">
+    <title lang="pl">Familiada</title>
+  </programme>
+  <programme start="20261102015200 +0100" stop="20261102021300 +0100" channel="atm.rozrywka">
+    <title lang="pl">Graczykowie</title>
+  </programme>
+  <!-- RUNDA 9 -->
+  <programme start="20261102021300 +0100" stop="20261102021500 +0100" channel="atm.rozrywka">
+    <title lang="pl">Pitu pitu</title>
+  </programme>
+  <programme start="20261102021500 +0100" stop="20261102023200 +0100" channel="atm.rozrywka">
+    <title lang="pl">Ewa gotuje</title>
+  </programme>
+  <programme start="20261102023200 +0100" stop="20261102031700 +0100" channel="atm.rozrywka">
+    <title lang="pl">Gang Olsena</title>
+  </programme>
+  <programme start="20261102031700 +0100" stop="20261102041200 +0100" channel="atm.rozrywka">
+    <title lang="pl">Pod jednym dachem</title>
+  </programme>
+  <programme start="20261102041200 +0100" stop="20261102050000 +0100" channel="atm.rozrywka">
+    <title lang="pl">Awantura o kasę</title>
+  </programme>
+  <programme start="20261102050000 +0100" stop="20261102054000 +0100" channel="atm.rozrywka">
+    <title lang="pl">Awantura o kasę</title>
+  </programme>
+  <programme start="20261102054000 +0100" stop="20261102063100 +0100" channel="atm.rozrywka">
+    <title lang="pl">Disco gramy</title>
+  </programme>
+  <programme start="20261102063100 +0100" stop="20261102065900 +0100" channel="atm.rozrywka">
+    <title lang="pl">Daleko od noszy</title>
+  </programme>
+  <programme start="20261102065900 +0100" stop="20261102074400 +0100" channel="atm.rozrywka">
+    <title lang="pl">Joker</title>
+  </programme>
+  <programme start="20261102074400 +0100" stop="20261102080600 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261102080600 +0100" stop="20261102082800 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261102082800 +0100" stop="20261102092200 +0100" channel="atm.rozrywka">
+    <title lang="pl">Cobra - oddział specjalny</title>
+  </programme>
+  <programme start="20261102092200 +0100" stop="20261102101400 +0100" channel="atm.rozrywka">
+    <title lang="pl">Cobra - oddział specjalny</title>
+  </programme>
+  <programme start="20261102101400 +0100" stop="20261102104500 +0100" channel="atm.rozrywka">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261102104500 +0100" stop="20261102110600 +0100" channel="atm.rozrywka">
+    <title lang="pl">Włatcy móch: The Best Of</title>
+  </programme>
+  <programme start="20261102110600 +0100" stop="20261102112800 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261102112800 +0100" stop="20261102115000 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261102115000 +0100" stop="20261102121700 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261102121700 +0100" stop="20261102130000 +0100" channel="atm.rozrywka">
+    <title lang="pl">Fala zbrodni</title>
+  </programme>
+  <programme start="20261102130000 +0100" stop="20261102134500 +0100" channel="atm.rozrywka">
+    <title lang="pl">Gra w ciemno</title>
+  </programme>
+  <programme start="20261102134500 +0100" stop="20261102141000 +0100" channel="atm.rozrywka">
+    <title lang="pl">13 posterunek</title>
+  </programme>
+  <programme start="20261102141000 +0100" stop="20261102145600 +0100" channel="atm.rozrywka">
+    <title lang="pl">Fala zbrodni</title>
+  </programme>
+  <programme start="20261102145600 +0100" stop="20261102154500 +0100" channel="atm.rozrywka">
+    <title lang="pl">Ranczo</title>
+  </programme>
+  <programme start="20261102154500 +0100" stop="20261102161000 +0100" channel="atm.rozrywka">
+    <title lang="pl">Familiada</title>
+  </programme>
+  <programme start="20261102161000 +0100" stop="20261102163100 +0100" channel="atm.rozrywka">
+    <title lang="pl">Graczykowie</title>
+  </programme>
+  <!-- RUNDA 10 -->
+  <programme start="20261102163100 +0100" stop="20261102163300 +0100" channel="atm.rozrywka">
+    <title lang="pl">Pitu pitu</title>
+  </programme>
+  <programme start="20261102163300 +0100" stop="20261102165000 +0100" channel="atm.rozrywka">
+    <title lang="pl">Ewa gotuje</title>
+  </programme>
+  <programme start="20261102165000 +0100" stop="20261102173500 +0100" channel="atm.rozrywka">
+    <title lang="pl">Gang Olsena</title>
+  </programme>
+  <programme start="20261102173500 +0100" stop="20261102183000 +0100" channel="atm.rozrywka">
+    <title lang="pl">Pod jednym dachem</title>
+  </programme>
+  <programme start="20261102183000 +0100" stop="20261102191800 +0100" channel="atm.rozrywka">
+    <title lang="pl">Awantura o kasę</title>
+  </programme>
+  <programme start="20261102191800 +0100" stop="20261102195800 +0100" channel="atm.rozrywka">
+    <title lang="pl">Awantura o kasę</title>
+  </programme>
+  <programme start="20261102195800 +0100" stop="20261102204900 +0100" channel="atm.rozrywka">
+    <title lang="pl">Disco gramy</title>
+  </programme>
+  <programme start="20261102204900 +0100" stop="20261102211700 +0100" channel="atm.rozrywka">
+    <title lang="pl">Daleko od noszy</title>
+  </programme>
+  <programme start="20261102211700 +0100" stop="20261102220200 +0100" channel="atm.rozrywka">
+    <title lang="pl">Joker</title>
+  </programme>
+  <programme start="20261102220200 +0100" stop="20261102222400 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261102222400 +0100" stop="20261102224600 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261102224600 +0100" stop="20261102234000 +0100" channel="atm.rozrywka">
+    <title lang="pl">Cobra - oddział specjalny</title>
+  </programme>
+  <programme start="20261102234000 +0100" stop="20261103003200 +0100" channel="atm.rozrywka">
+    <title lang="pl">Cobra - oddział specjalny</title>
+  </programme>
+  <programme start="20261103003200 +0100" stop="20261103010300 +0100" channel="atm.rozrywka">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261103010300 +0100" stop="20261103012400 +0100" channel="atm.rozrywka">
+    <title lang="pl">Włatcy móch: The Best Of</title>
+  </programme>
+  <programme start="20261103012400 +0100" stop="20261103014600 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261103014600 +0100" stop="20261103020800 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261103020800 +0100" stop="20261103023500 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261103023500 +0100" stop="20261103031800 +0100" channel="atm.rozrywka">
+    <title lang="pl">Fala zbrodni</title>
+  </programme>
+  <programme start="20261103031800 +0100" stop="20261103040300 +0100" channel="atm.rozrywka">
+    <title lang="pl">Gra w ciemno</title>
+  </programme>
+  <programme start="20261103040300 +0100" stop="20261103042800 +0100" channel="atm.rozrywka">
+    <title lang="pl">13 posterunek</title>
+  </programme>
+  <programme start="20261103042800 +0100" stop="20261103051400 +0100" channel="atm.rozrywka">
+    <title lang="pl">Fala zbrodni</title>
+  </programme>
+  <programme start="20261103051400 +0100" stop="20261103060300 +0100" channel="atm.rozrywka">
+    <title lang="pl">Ranczo</title>
+  </programme>
+  <programme start="20261103060300 +0100" stop="20261103062800 +0100" channel="atm.rozrywka">
+    <title lang="pl">Familiada</title>
+  </programme>
+  <programme start="20261103062800 +0100" stop="20261103064900 +0100" channel="atm.rozrywka">
+    <title lang="pl">Graczykowie</title>
+  </programme>
+  <!-- RUNDA 11 -->
+  <programme start="20261103064900 +0100" stop="20261103065100 +0100" channel="atm.rozrywka">
+    <title lang="pl">Pitu pitu</title>
+  </programme>
+  <programme start="20261103065100 +0100" stop="20261103070800 +0100" channel="atm.rozrywka">
+    <title lang="pl">Ewa gotuje</title>
+  </programme>
+  <programme start="20261103070800 +0100" stop="20261103075300 +0100" channel="atm.rozrywka">
+    <title lang="pl">Gang Olsena</title>
+  </programme>
+  <programme start="20261103075300 +0100" stop="20261103084800 +0100" channel="atm.rozrywka">
+    <title lang="pl">Pod jednym dachem</title>
+  </programme>
+  <programme start="20261103084800 +0100" stop="20261103093600 +0100" channel="atm.rozrywka">
+    <title lang="pl">Awantura o kasę</title>
+  </programme>
+  <programme start="20261103093600 +0100" stop="20261103101600 +0100" channel="atm.rozrywka">
+    <title lang="pl">Awantura o kasę</title>
+  </programme>
+  <programme start="20261103101600 +0100" stop="20261103110700 +0100" channel="atm.rozrywka">
+    <title lang="pl">Disco gramy</title>
+  </programme>
+  <programme start="20261103110700 +0100" stop="20261103113500 +0100" channel="atm.rozrywka">
+    <title lang="pl">Daleko od noszy</title>
+  </programme>
+  <programme start="20261103113500 +0100" stop="20261103122000 +0100" channel="atm.rozrywka">
+    <title lang="pl">Joker</title>
+  </programme>
+  <programme start="20261103122000 +0100" stop="20261103124200 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261103124200 +0100" stop="20261103130400 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261103130400 +0100" stop="20261103135800 +0100" channel="atm.rozrywka">
+    <title lang="pl">Cobra - oddział specjalny</title>
+  </programme>
+  <programme start="20261103135800 +0100" stop="20261103145000 +0100" channel="atm.rozrywka">
+    <title lang="pl">Cobra - oddział specjalny</title>
+  </programme>
+  <programme start="20261103145000 +0100" stop="20261103152100 +0100" channel="atm.rozrywka">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261103152100 +0100" stop="20261103154200 +0100" channel="atm.rozrywka">
+    <title lang="pl">Włatcy móch: The Best Of</title>
+  </programme>
+  <programme start="20261103154200 +0100" stop="20261103160400 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261103160400 +0100" stop="20261103162600 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261103162600 +0100" stop="20261103165300 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261103165300 +0100" stop="20261103173600 +0100" channel="atm.rozrywka">
+    <title lang="pl">Fala zbrodni</title>
+  </programme>
+  <programme start="20261103173600 +0100" stop="20261103182100 +0100" channel="atm.rozrywka">
+    <title lang="pl">Gra w ciemno</title>
+  </programme>
+  <programme start="20261103182100 +0100" stop="20261103184600 +0100" channel="atm.rozrywka">
+    <title lang="pl">13 posterunek</title>
+  </programme>
+  <programme start="20261103184600 +0100" stop="20261103193200 +0100" channel="atm.rozrywka">
+    <title lang="pl">Fala zbrodni</title>
+  </programme>
+  <programme start="20261103193200 +0100" stop="20261103202100 +0100" channel="atm.rozrywka">
+    <title lang="pl">Ranczo</title>
+  </programme>
+  <programme start="20261103202100 +0100" stop="20261103204600 +0100" channel="atm.rozrywka">
+    <title lang="pl">Familiada</title>
+  </programme>
+  <programme start="20261103204600 +0100" stop="20261103210700 +0100" channel="atm.rozrywka">
+    <title lang="pl">Graczykowie</title>
+  </programme>
+  <!-- RUNDA 12 -->
+  <programme start="20261103210700 +0100" stop="20261103210900 +0100" channel="atm.rozrywka">
+    <title lang="pl">Pitu pitu</title>
+  </programme>
+  <programme start="20261103210900 +0100" stop="20261103212600 +0100" channel="atm.rozrywka">
+    <title lang="pl">Ewa gotuje</title>
+  </programme>
+  <programme start="20261103212600 +0100" stop="20261103221100 +0100" channel="atm.rozrywka">
+    <title lang="pl">Gang Olsena</title>
+  </programme>
+  <programme start="20261103221100 +0100" stop="20261103230600 +0100" channel="atm.rozrywka">
+    <title lang="pl">Pod jednym dachem</title>
+  </programme>
+  <programme start="20261103230600 +0100" stop="20261103235400 +0100" channel="atm.rozrywka">
+    <title lang="pl">Awantura o kasę</title>
+  </programme>
+  <programme start="20261103235400 +0100" stop="20261104003400 +0100" channel="atm.rozrywka">
+    <title lang="pl">Awantura o kasę</title>
+  </programme>
+  <programme start="20261104003400 +0100" stop="20261104012500 +0100" channel="atm.rozrywka">
+    <title lang="pl">Disco gramy</title>
+  </programme>
+  <programme start="20261104012500 +0100" stop="20261104015300 +0100" channel="atm.rozrywka">
+    <title lang="pl">Daleko od noszy</title>
+  </programme>
+  <programme start="20261104015300 +0100" stop="20261104023800 +0100" channel="atm.rozrywka">
+    <title lang="pl">Joker</title>
+  </programme>
+  <programme start="20261104023800 +0100" stop="20261104030000 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261104030000 +0100" stop="20261104032200 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261104032200 +0100" stop="20261104041600 +0100" channel="atm.rozrywka">
+    <title lang="pl">Cobra - oddział specjalny</title>
+  </programme>
+  <programme start="20261104041600 +0100" stop="20261104050800 +0100" channel="atm.rozrywka">
+    <title lang="pl">Cobra - oddział specjalny</title>
+  </programme>
+  <programme start="20261104050800 +0100" stop="20261104053900 +0100" channel="atm.rozrywka">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261104053900 +0100" stop="20261104060000 +0100" channel="atm.rozrywka">
+    <title lang="pl">Włatcy móch: The Best Of</title>
+  </programme>
+  <programme start="20261104060000 +0100" stop="20261104062200 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261104062200 +0100" stop="20261104064400 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261104064400 +0100" stop="20261104071100 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261104071100 +0100" stop="20261104075400 +0100" channel="atm.rozrywka">
+    <title lang="pl">Fala zbrodni</title>
+  </programme>
+  <programme start="20261104075400 +0100" stop="20261104083900 +0100" channel="atm.rozrywka">
+    <title lang="pl">Gra w ciemno</title>
+  </programme>
+  <programme start="20261104083900 +0100" stop="20261104090400 +0100" channel="atm.rozrywka">
+    <title lang="pl">13 posterunek</title>
+  </programme>
+  <programme start="20261104090400 +0100" stop="20261104095000 +0100" channel="atm.rozrywka">
+    <title lang="pl">Fala zbrodni</title>
+  </programme>
+  <programme start="20261104095000 +0100" stop="20261104103900 +0100" channel="atm.rozrywka">
+    <title lang="pl">Ranczo</title>
+  </programme>
+  <programme start="20261104103900 +0100" stop="20261104110400 +0100" channel="atm.rozrywka">
+    <title lang="pl">Familiada</title>
+  </programme>
+  <programme start="20261104110400 +0100" stop="20261104112500 +0100" channel="atm.rozrywka">
+    <title lang="pl">Graczykowie</title>
+  </programme>
+  <!-- RUNDA 13 -->
+  <programme start="20261104112500 +0100" stop="20261104112700 +0100" channel="atm.rozrywka">
+    <title lang="pl">Pitu pitu</title>
+  </programme>
+  <programme start="20261104112700 +0100" stop="20261104114400 +0100" channel="atm.rozrywka">
+    <title lang="pl">Ewa gotuje</title>
+  </programme>
+  <programme start="20261104114400 +0100" stop="20261104122900 +0100" channel="atm.rozrywka">
+    <title lang="pl">Gang Olsena</title>
+  </programme>
+  <programme start="20261104122900 +0100" stop="20261104132400 +0100" channel="atm.rozrywka">
+    <title lang="pl">Pod jednym dachem</title>
+  </programme>
+  <programme start="20261104132400 +0100" stop="20261104141200 +0100" channel="atm.rozrywka">
+    <title lang="pl">Awantura o kasę</title>
+  </programme>
+  <programme start="20261104141200 +0100" stop="20261104145200 +0100" channel="atm.rozrywka">
+    <title lang="pl">Awantura o kasę</title>
+  </programme>
+  <programme start="20261104145200 +0100" stop="20261104154300 +0100" channel="atm.rozrywka">
+    <title lang="pl">Disco gramy</title>
+  </programme>
+  <programme start="20261104154300 +0100" stop="20261104161100 +0100" channel="atm.rozrywka">
+    <title lang="pl">Daleko od noszy</title>
+  </programme>
+  <programme start="20261104161100 +0100" stop="20261104165600 +0100" channel="atm.rozrywka">
+    <title lang="pl">Joker</title>
+  </programme>
+  <programme start="20261104165600 +0100" stop="20261104171800 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261104171800 +0100" stop="20261104174000 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261104174000 +0100" stop="20261104183400 +0100" channel="atm.rozrywka">
+    <title lang="pl">Cobra - oddział specjalny</title>
+  </programme>
+  <programme start="20261104183400 +0100" stop="20261104192600 +0100" channel="atm.rozrywka">
+    <title lang="pl">Cobra - oddział specjalny</title>
+  </programme>
+  <programme start="20261104192600 +0100" stop="20261104195700 +0100" channel="atm.rozrywka">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261104195700 +0100" stop="20261104201800 +0100" channel="atm.rozrywka">
+    <title lang="pl">Włatcy móch: The Best Of</title>
+  </programme>
+  <programme start="20261104201800 +0100" stop="20261104204000 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261104204000 +0100" stop="20261104210200 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261104210200 +0100" stop="20261104212900 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261104212900 +0100" stop="20261104221200 +0100" channel="atm.rozrywka">
+    <title lang="pl">Fala zbrodni</title>
+  </programme>
+  <programme start="20261104221200 +0100" stop="20261104225700 +0100" channel="atm.rozrywka">
+    <title lang="pl">Gra w ciemno</title>
+  </programme>
+  <programme start="20261104225700 +0100" stop="20261104232200 +0100" channel="atm.rozrywka">
+    <title lang="pl">13 posterunek</title>
+  </programme>
+  <programme start="20261104232200 +0100" stop="20261105000800 +0100" channel="atm.rozrywka">
+    <title lang="pl">Fala zbrodni</title>
+  </programme>
+  <programme start="20261105000800 +0100" stop="20261105005700 +0100" channel="atm.rozrywka">
+    <title lang="pl">Ranczo</title>
+  </programme>
+  <programme start="20261105005700 +0100" stop="20261105012200 +0100" channel="atm.rozrywka">
+    <title lang="pl">Familiada</title>
+  </programme>
+  <programme start="20261105012200 +0100" stop="20261105014300 +0100" channel="atm.rozrywka">
+    <title lang="pl">Graczykowie</title>
+  </programme>
+  <!-- RUNDA 14 -->
+  <programme start="20261105014300 +0100" stop="20261105014500 +0100" channel="atm.rozrywka">
+    <title lang="pl">Pitu pitu</title>
+  </programme>
+  <programme start="20261105014500 +0100" stop="20261105020200 +0100" channel="atm.rozrywka">
+    <title lang="pl">Ewa gotuje</title>
+  </programme>
+  <programme start="20261105020200 +0100" stop="20261105024700 +0100" channel="atm.rozrywka">
+    <title lang="pl">Gang Olsena</title>
+  </programme>
+  <programme start="20261105024700 +0100" stop="20261105034200 +0100" channel="atm.rozrywka">
+    <title lang="pl">Pod jednym dachem</title>
+  </programme>
+  <programme start="20261105034200 +0100" stop="20261105043000 +0100" channel="atm.rozrywka">
+    <title lang="pl">Awantura o kasę</title>
+  </programme>
+  <programme start="20261105043000 +0100" stop="20261105051000 +0100" channel="atm.rozrywka">
+    <title lang="pl">Awantura o kasę</title>
+  </programme>
+  <programme start="20261105051000 +0100" stop="20261105060100 +0100" channel="atm.rozrywka">
+    <title lang="pl">Disco gramy</title>
+  </programme>
+  <programme start="20261105060100 +0100" stop="20261105062900 +0100" channel="atm.rozrywka">
+    <title lang="pl">Daleko od noszy</title>
+  </programme>
+  <programme start="20261105062900 +0100" stop="20261105071400 +0100" channel="atm.rozrywka">
+    <title lang="pl">Joker</title>
+  </programme>
+  <programme start="20261105071400 +0100" stop="20261105073600 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261105073600 +0100" stop="20261105075800 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261105075800 +0100" stop="20261105085200 +0100" channel="atm.rozrywka">
+    <title lang="pl">Cobra - oddział specjalny</title>
+  </programme>
+  <programme start="20261105085200 +0100" stop="20261105094400 +0100" channel="atm.rozrywka">
+    <title lang="pl">Cobra - oddział specjalny</title>
+  </programme>
+  <programme start="20261105094400 +0100" stop="20261105101500 +0100" channel="atm.rozrywka">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261105101500 +0100" stop="20261105103600 +0100" channel="atm.rozrywka">
+    <title lang="pl">Włatcy móch: The Best Of</title>
+  </programme>
+  <programme start="20261105103600 +0100" stop="20261105105800 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261105105800 +0100" stop="20261105112000 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261105112000 +0100" stop="20261105114700 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261105114700 +0100" stop="20261105123000 +0100" channel="atm.rozrywka">
+    <title lang="pl">Fala zbrodni</title>
+  </programme>
+  <programme start="20261105123000 +0100" stop="20261105131500 +0100" channel="atm.rozrywka">
+    <title lang="pl">Gra w ciemno</title>
+  </programme>
+  <programme start="20261105131500 +0100" stop="20261105134000 +0100" channel="atm.rozrywka">
+    <title lang="pl">13 posterunek</title>
+  </programme>
+  <programme start="20261105134000 +0100" stop="20261105142600 +0100" channel="atm.rozrywka">
+    <title lang="pl">Fala zbrodni</title>
+  </programme>
+  <programme start="20261105142600 +0100" stop="20261105151500 +0100" channel="atm.rozrywka">
+    <title lang="pl">Ranczo</title>
+  </programme>
+  <programme start="20261105151500 +0100" stop="20261105154000 +0100" channel="atm.rozrywka">
+    <title lang="pl">Familiada</title>
+  </programme>
+  <programme start="20261105154000 +0100" stop="20261105160100 +0100" channel="atm.rozrywka">
+    <title lang="pl">Graczykowie</title>
+  </programme>
+  <!-- RUNDA 15 -->
+  <programme start="20261105160100 +0100" stop="20261105160300 +0100" channel="atm.rozrywka">
+    <title lang="pl">Pitu pitu</title>
+  </programme>
+  <programme start="20261105160300 +0100" stop="20261105162000 +0100" channel="atm.rozrywka">
+    <title lang="pl">Ewa gotuje</title>
+  </programme>
+  <programme start="20261105162000 +0100" stop="20261105170500 +0100" channel="atm.rozrywka">
+    <title lang="pl">Gang Olsena</title>
+  </programme>
+  <programme start="20261105170500 +0100" stop="20261105180000 +0100" channel="atm.rozrywka">
+    <title lang="pl">Pod jednym dachem</title>
+  </programme>
+  <programme start="20261105180000 +0100" stop="20261105184800 +0100" channel="atm.rozrywka">
+    <title lang="pl">Awantura o kasę</title>
+  </programme>
+  <programme start="20261105184800 +0100" stop="20261105192800 +0100" channel="atm.rozrywka">
+    <title lang="pl">Awantura o kasę</title>
+  </programme>
+  <programme start="20261105192800 +0100" stop="20261105201900 +0100" channel="atm.rozrywka">
+    <title lang="pl">Disco gramy</title>
+  </programme>
+  <programme start="20261105201900 +0100" stop="20261105204700 +0100" channel="atm.rozrywka">
+    <title lang="pl">Daleko od noszy</title>
+  </programme>
+  <programme start="20261105204700 +0100" stop="20261105213200 +0100" channel="atm.rozrywka">
+    <title lang="pl">Joker</title>
+  </programme>
+  <programme start="20261105213200 +0100" stop="20261105215400 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261105215400 +0100" stop="20261105221600 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261105221600 +0100" stop="20261105231000 +0100" channel="atm.rozrywka">
+    <title lang="pl">Cobra - oddział specjalny</title>
+  </programme>
+  <programme start="20261105231000 +0100" stop="20261106000200 +0100" channel="atm.rozrywka">
+    <title lang="pl">Cobra - oddział specjalny</title>
+  </programme>
+  <programme start="20261106000200 +0100" stop="20261106003300 +0100" channel="atm.rozrywka">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261106003300 +0100" stop="20261106005400 +0100" channel="atm.rozrywka">
+    <title lang="pl">Włatcy móch: The Best Of</title>
+  </programme>
+  <programme start="20261106005400 +0100" stop="20261106011600 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261106011600 +0100" stop="20261106013800 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261106013800 +0100" stop="20261106020500 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261106020500 +0100" stop="20261106024800 +0100" channel="atm.rozrywka">
+    <title lang="pl">Fala zbrodni</title>
+  </programme>
+  <programme start="20261106024800 +0100" stop="20261106033300 +0100" channel="atm.rozrywka">
+    <title lang="pl">Gra w ciemno</title>
+  </programme>
+  <programme start="20261106033300 +0100" stop="20261106035800 +0100" channel="atm.rozrywka">
+    <title lang="pl">13 posterunek</title>
+  </programme>
+  <programme start="20261106035800 +0100" stop="20261106044400 +0100" channel="atm.rozrywka">
+    <title lang="pl">Fala zbrodni</title>
+  </programme>
+  <programme start="20261106044400 +0100" stop="20261106053300 +0100" channel="atm.rozrywka">
+    <title lang="pl">Ranczo</title>
+  </programme>
+  <programme start="20261106053300 +0100" stop="20261106055800 +0100" channel="atm.rozrywka">
+    <title lang="pl">Familiada</title>
+  </programme>
+  <programme start="20261106055800 +0100" stop="20261106061900 +0100" channel="atm.rozrywka">
+    <title lang="pl">Graczykowie</title>
+  </programme>
+  <!-- RUNDA 16 -->
+  <programme start="20261106061900 +0100" stop="20261106062100 +0100" channel="atm.rozrywka">
+    <title lang="pl">Pitu pitu</title>
+  </programme>
+  <programme start="20261106062100 +0100" stop="20261106063800 +0100" channel="atm.rozrywka">
+    <title lang="pl">Ewa gotuje</title>
+  </programme>
+  <programme start="20261106063800 +0100" stop="20261106072300 +0100" channel="atm.rozrywka">
+    <title lang="pl">Gang Olsena</title>
+  </programme>
+  <programme start="20261106072300 +0100" stop="20261106081800 +0100" channel="atm.rozrywka">
+    <title lang="pl">Pod jednym dachem</title>
+  </programme>
+  <programme start="20261106081800 +0100" stop="20261106090600 +0100" channel="atm.rozrywka">
+    <title lang="pl">Awantura o kasę</title>
+  </programme>
+  <programme start="20261106090600 +0100" stop="20261106094600 +0100" channel="atm.rozrywka">
+    <title lang="pl">Awantura o kasę</title>
+  </programme>
+  <programme start="20261106094600 +0100" stop="20261106103700 +0100" channel="atm.rozrywka">
+    <title lang="pl">Disco gramy</title>
+  </programme>
+  <programme start="20261106103700 +0100" stop="20261106110500 +0100" channel="atm.rozrywka">
+    <title lang="pl">Daleko od noszy</title>
+  </programme>
+  <programme start="20261106110500 +0100" stop="20261106115000 +0100" channel="atm.rozrywka">
+    <title lang="pl">Joker</title>
+  </programme>
+  <programme start="20261106115000 +0100" stop="20261106121200 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261106121200 +0100" stop="20261106123400 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261106123400 +0100" stop="20261106132800 +0100" channel="atm.rozrywka">
+    <title lang="pl">Cobra - oddział specjalny</title>
+  </programme>
+  <programme start="20261106132800 +0100" stop="20261106142000 +0100" channel="atm.rozrywka">
+    <title lang="pl">Cobra - oddział specjalny</title>
+  </programme>
+  <programme start="20261106142000 +0100" stop="20261106145100 +0100" channel="atm.rozrywka">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261106145100 +0100" stop="20261106151200 +0100" channel="atm.rozrywka">
+    <title lang="pl">Włatcy móch: The Best Of</title>
+  </programme>
+  <programme start="20261106151200 +0100" stop="20261106153400 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261106153400 +0100" stop="20261106155600 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261106155600 +0100" stop="20261106162300 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261106162300 +0100" stop="20261106170600 +0100" channel="atm.rozrywka">
+    <title lang="pl">Fala zbrodni</title>
+  </programme>
+  <programme start="20261106170600 +0100" stop="20261106175100 +0100" channel="atm.rozrywka">
+    <title lang="pl">Gra w ciemno</title>
+  </programme>
+  <programme start="20261106175100 +0100" stop="20261106181600 +0100" channel="atm.rozrywka">
+    <title lang="pl">13 posterunek</title>
+  </programme>
+  <programme start="20261106181600 +0100" stop="20261106190200 +0100" channel="atm.rozrywka">
+    <title lang="pl">Fala zbrodni</title>
+  </programme>
+  <programme start="20261106190200 +0100" stop="20261106195100 +0100" channel="atm.rozrywka">
+    <title lang="pl">Ranczo</title>
+  </programme>
+  <programme start="20261106195100 +0100" stop="20261106201600 +0100" channel="atm.rozrywka">
+    <title lang="pl">Familiada</title>
+  </programme>
+  <programme start="20261106201600 +0100" stop="20261106203700 +0100" channel="atm.rozrywka">
+    <title lang="pl">Graczykowie</title>
+  </programme>
+  <!-- RUNDA 17 -->
+  <programme start="20261106203700 +0100" stop="20261106203900 +0100" channel="atm.rozrywka">
+    <title lang="pl">Pitu pitu</title>
+  </programme>
+  <programme start="20261106203900 +0100" stop="20261106205600 +0100" channel="atm.rozrywka">
+    <title lang="pl">Ewa gotuje</title>
+  </programme>
+  <programme start="20261106205600 +0100" stop="20261106214100 +0100" channel="atm.rozrywka">
+    <title lang="pl">Gang Olsena</title>
+  </programme>
+  <programme start="20261106214100 +0100" stop="20261106223600 +0100" channel="atm.rozrywka">
+    <title lang="pl">Pod jednym dachem</title>
+  </programme>
+  <programme start="20261106223600 +0100" stop="20261106232400 +0100" channel="atm.rozrywka">
+    <title lang="pl">Awantura o kasę</title>
+  </programme>
+  <programme start="20261106232400 +0100" stop="20261107000400 +0100" channel="atm.rozrywka">
+    <title lang="pl">Awantura o kasę</title>
+  </programme>
+  <programme start="20261107000400 +0100" stop="20261107005500 +0100" channel="atm.rozrywka">
+    <title lang="pl">Disco gramy</title>
+  </programme>
+  <programme start="20261107005500 +0100" stop="20261107012300 +0100" channel="atm.rozrywka">
+    <title lang="pl">Daleko od noszy</title>
+  </programme>
+  <programme start="20261107012300 +0100" stop="20261107020800 +0100" channel="atm.rozrywka">
+    <title lang="pl">Joker</title>
+  </programme>
+  <programme start="20261107020800 +0100" stop="20261107023000 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261107023000 +0100" stop="20261107025200 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261107025200 +0100" stop="20261107034600 +0100" channel="atm.rozrywka">
+    <title lang="pl">Cobra - oddział specjalny</title>
+  </programme>
+  <programme start="20261107034600 +0100" stop="20261107043800 +0100" channel="atm.rozrywka">
+    <title lang="pl">Cobra - oddział specjalny</title>
+  </programme>
+  <programme start="20261107043800 +0100" stop="20261107050900 +0100" channel="atm.rozrywka">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261107050900 +0100" stop="20261107053000 +0100" channel="atm.rozrywka">
+    <title lang="pl">Włatcy móch: The Best Of</title>
+  </programme>
+  <programme start="20261107053000 +0100" stop="20261107055200 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261107055200 +0100" stop="20261107061400 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261107061400 +0100" stop="20261107064100 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261107064100 +0100" stop="20261107072400 +0100" channel="atm.rozrywka">
+    <title lang="pl">Fala zbrodni</title>
+  </programme>
+  <programme start="20261107072400 +0100" stop="20261107080900 +0100" channel="atm.rozrywka">
+    <title lang="pl">Gra w ciemno</title>
+  </programme>
+  <programme start="20261107080900 +0100" stop="20261107083400 +0100" channel="atm.rozrywka">
+    <title lang="pl">13 posterunek</title>
+  </programme>
+  <programme start="20261107083400 +0100" stop="20261107092000 +0100" channel="atm.rozrywka">
+    <title lang="pl">Fala zbrodni</title>
+  </programme>
+  <programme start="20261107092000 +0100" stop="20261107100900 +0100" channel="atm.rozrywka">
+    <title lang="pl">Ranczo</title>
+  </programme>
+  <programme start="20261107100900 +0100" stop="20261107103400 +0100" channel="atm.rozrywka">
+    <title lang="pl">Familiada</title>
+  </programme>
+  <programme start="20261107103400 +0100" stop="20261107105500 +0100" channel="atm.rozrywka">
+    <title lang="pl">Graczykowie</title>
+  </programme>
+  <!-- RUNDA 18 -->
+  <programme start="20261107105500 +0100" stop="20261107105700 +0100" channel="atm.rozrywka">
+    <title lang="pl">Pitu pitu</title>
+  </programme>
+  <programme start="20261107105700 +0100" stop="20261107111400 +0100" channel="atm.rozrywka">
+    <title lang="pl">Ewa gotuje</title>
+  </programme>
+  <programme start="20261107111400 +0100" stop="20261107115900 +0100" channel="atm.rozrywka">
+    <title lang="pl">Gang Olsena</title>
+  </programme>
+  <programme start="20261107115900 +0100" stop="20261107125400 +0100" channel="atm.rozrywka">
+    <title lang="pl">Pod jednym dachem</title>
+  </programme>
+  <programme start="20261107125400 +0100" stop="20261107134200 +0100" channel="atm.rozrywka">
+    <title lang="pl">Awantura o kasę</title>
+  </programme>
+  <programme start="20261107134200 +0100" stop="20261107142200 +0100" channel="atm.rozrywka">
+    <title lang="pl">Awantura o kasę</title>
+  </programme>
+  <programme start="20261107142200 +0100" stop="20261107151300 +0100" channel="atm.rozrywka">
+    <title lang="pl">Disco gramy</title>
+  </programme>
+  <programme start="20261107151300 +0100" stop="20261107154100 +0100" channel="atm.rozrywka">
+    <title lang="pl">Daleko od noszy</title>
+  </programme>
+  <programme start="20261107154100 +0100" stop="20261107162600 +0100" channel="atm.rozrywka">
+    <title lang="pl">Joker</title>
+  </programme>
+  <programme start="20261107162600 +0100" stop="20261107164800 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261107164800 +0100" stop="20261107171000 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261107171000 +0100" stop="20261107180400 +0100" channel="atm.rozrywka">
+    <title lang="pl">Cobra - oddział specjalny</title>
+  </programme>
+  <programme start="20261107180400 +0100" stop="20261107185600 +0100" channel="atm.rozrywka">
+    <title lang="pl">Cobra - oddział specjalny</title>
+  </programme>
+  <programme start="20261107185600 +0100" stop="20261107192700 +0100" channel="atm.rozrywka">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261107192700 +0100" stop="20261107194800 +0100" channel="atm.rozrywka">
+    <title lang="pl">Włatcy móch: The Best Of</title>
+  </programme>
+  <programme start="20261107194800 +0100" stop="20261107201000 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261107201000 +0100" stop="20261107203200 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261107203200 +0100" stop="20261107205900 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261107205900 +0100" stop="20261107214200 +0100" channel="atm.rozrywka">
+    <title lang="pl">Fala zbrodni</title>
+  </programme>
+  <programme start="20261107214200 +0100" stop="20261107222700 +0100" channel="atm.rozrywka">
+    <title lang="pl">Gra w ciemno</title>
+  </programme>
+  <programme start="20261107222700 +0100" stop="20261107225200 +0100" channel="atm.rozrywka">
+    <title lang="pl">13 posterunek</title>
+  </programme>
+  <programme start="20261107225200 +0100" stop="20261107233800 +0100" channel="atm.rozrywka">
+    <title lang="pl">Fala zbrodni</title>
+  </programme>
+  <programme start="20261107233800 +0100" stop="20261108002700 +0100" channel="atm.rozrywka">
+    <title lang="pl">Ranczo</title>
+  </programme>
+  <programme start="20261108002700 +0100" stop="20261108005200 +0100" channel="atm.rozrywka">
+    <title lang="pl">Familiada</title>
+  </programme>
+  <programme start="20261108005200 +0100" stop="20261108011300 +0100" channel="atm.rozrywka">
+    <title lang="pl">Graczykowie</title>
+  </programme>
+  <!-- RUNDA 19 -->
+  <programme start="20261108011300 +0100" stop="20261108011500 +0100" channel="atm.rozrywka">
+    <title lang="pl">Pitu pitu</title>
+  </programme>
+  <programme start="20261108011500 +0100" stop="20261108013200 +0100" channel="atm.rozrywka">
+    <title lang="pl">Ewa gotuje</title>
+  </programme>
+  <programme start="20261108013200 +0100" stop="20261108021700 +0100" channel="atm.rozrywka">
+    <title lang="pl">Gang Olsena</title>
+  </programme>
+  <programme start="20261108021700 +0100" stop="20261108031200 +0100" channel="atm.rozrywka">
+    <title lang="pl">Pod jednym dachem</title>
+  </programme>
+  <programme start="20261108031200 +0100" stop="20261108040000 +0100" channel="atm.rozrywka">
+    <title lang="pl">Awantura o kasę</title>
+  </programme>
+  <programme start="20261108040000 +0100" stop="20261108044000 +0100" channel="atm.rozrywka">
+    <title lang="pl">Awantura o kasę</title>
+  </programme>
+  <programme start="20261108044000 +0100" stop="20261108053100 +0100" channel="atm.rozrywka">
+    <title lang="pl">Disco gramy</title>
+  </programme>
+  <programme start="20261108053100 +0100" stop="20261108055900 +0100" channel="atm.rozrywka">
+    <title lang="pl">Daleko od noszy</title>
+  </programme>
+  <programme start="20261108055900 +0100" stop="20261108064400 +0100" channel="atm.rozrywka">
+    <title lang="pl">Joker</title>
+  </programme>
+  <programme start="20261108064400 +0100" stop="20261108070600 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261108070600 +0100" stop="20261108072800 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261108072800 +0100" stop="20261108082200 +0100" channel="atm.rozrywka">
+    <title lang="pl">Cobra - oddział specjalny</title>
+  </programme>
+  <programme start="20261108082200 +0100" stop="20261108091400 +0100" channel="atm.rozrywka">
+    <title lang="pl">Cobra - oddział specjalny</title>
+  </programme>
+  <programme start="20261108091400 +0100" stop="20261108094500 +0100" channel="atm.rozrywka">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261108094500 +0100" stop="20261108100600 +0100" channel="atm.rozrywka">
+    <title lang="pl">Włatcy móch: The Best Of</title>
+  </programme>
+  <programme start="20261108100600 +0100" stop="20261108102800 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261108102800 +0100" stop="20261108105000 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261108105000 +0100" stop="20261108111700 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261108111700 +0100" stop="20261108120000 +0100" channel="atm.rozrywka">
+    <title lang="pl">Fala zbrodni</title>
+  </programme>
+  <programme start="20261108120000 +0100" stop="20261108124500 +0100" channel="atm.rozrywka">
+    <title lang="pl">Gra w ciemno</title>
+  </programme>
+  <programme start="20261108124500 +0100" stop="20261108131000 +0100" channel="atm.rozrywka">
+    <title lang="pl">13 posterunek</title>
+  </programme>
+  <programme start="20261108131000 +0100" stop="20261108135600 +0100" channel="atm.rozrywka">
+    <title lang="pl">Fala zbrodni</title>
+  </programme>
+  <programme start="20261108135600 +0100" stop="20261108144500 +0100" channel="atm.rozrywka">
+    <title lang="pl">Ranczo</title>
+  </programme>
+  <programme start="20261108144500 +0100" stop="20261108151000 +0100" channel="atm.rozrywka">
+    <title lang="pl">Familiada</title>
+  </programme>
+  <programme start="20261108151000 +0100" stop="20261108153100 +0100" channel="atm.rozrywka">
+    <title lang="pl">Graczykowie</title>
+  </programme>
+  <!-- RUNDA 20 -->
+  <programme start="20261108153100 +0100" stop="20261108153300 +0100" channel="atm.rozrywka">
+    <title lang="pl">Pitu pitu</title>
+  </programme>
+  <programme start="20261108153300 +0100" stop="20261108155000 +0100" channel="atm.rozrywka">
+    <title lang="pl">Ewa gotuje</title>
+  </programme>
+  <programme start="20261108155000 +0100" stop="20261108163500 +0100" channel="atm.rozrywka">
+    <title lang="pl">Gang Olsena</title>
+  </programme>
+  <programme start="20261108163500 +0100" stop="20261108173000 +0100" channel="atm.rozrywka">
+    <title lang="pl">Pod jednym dachem</title>
+  </programme>
+  <programme start="20261108173000 +0100" stop="20261108181800 +0100" channel="atm.rozrywka">
+    <title lang="pl">Awantura o kasę</title>
+  </programme>
+  <programme start="20261108181800 +0100" stop="20261108185800 +0100" channel="atm.rozrywka">
+    <title lang="pl">Awantura o kasę</title>
+  </programme>
+  <programme start="20261108185800 +0100" stop="20261108194900 +0100" channel="atm.rozrywka">
+    <title lang="pl">Disco gramy</title>
+  </programme>
+  <programme start="20261108194900 +0100" stop="20261108201700 +0100" channel="atm.rozrywka">
+    <title lang="pl">Daleko od noszy</title>
+  </programme>
+  <programme start="20261108201700 +0100" stop="20261108210200 +0100" channel="atm.rozrywka">
+    <title lang="pl">Joker</title>
+  </programme>
+  <programme start="20261108210200 +0100" stop="20261108212400 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261108212400 +0100" stop="20261108214600 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261108214600 +0100" stop="20261108224000 +0100" channel="atm.rozrywka">
+    <title lang="pl">Cobra - oddział specjalny</title>
+  </programme>
+  <programme start="20261108224000 +0100" stop="20261108233200 +0100" channel="atm.rozrywka">
+    <title lang="pl">Cobra - oddział specjalny</title>
+  </programme>
+  <programme start="20261108233200 +0100" stop="20261109000300 +0100" channel="atm.rozrywka">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261109000300 +0100" stop="20261109002400 +0100" channel="atm.rozrywka">
+    <title lang="pl">Włatcy móch: The Best Of</title>
+  </programme>
+  <programme start="20261109002400 +0100" stop="20261109004600 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261109004600 +0100" stop="20261109010800 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261109010800 +0100" stop="20261109013500 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261109013500 +0100" stop="20261109021800 +0100" channel="atm.rozrywka">
+    <title lang="pl">Fala zbrodni</title>
+  </programme>
+  <programme start="20261109021800 +0100" stop="20261109030300 +0100" channel="atm.rozrywka">
+    <title lang="pl">Gra w ciemno</title>
+  </programme>
+  <programme start="20261109030300 +0100" stop="20261109032800 +0100" channel="atm.rozrywka">
+    <title lang="pl">13 posterunek</title>
+  </programme>
+  <programme start="20261109032800 +0100" stop="20261109041400 +0100" channel="atm.rozrywka">
+    <title lang="pl">Fala zbrodni</title>
+  </programme>
+  <programme start="20261109041400 +0100" stop="20261109050300 +0100" channel="atm.rozrywka">
+    <title lang="pl">Ranczo</title>
+  </programme>
+  <programme start="20261109050300 +0100" stop="20261109052800 +0100" channel="atm.rozrywka">
+    <title lang="pl">Familiada</title>
+  </programme>
+  <programme start="20261109052800 +0100" stop="20261109054900 +0100" channel="atm.rozrywka">
+    <title lang="pl">Graczykowie</title>
+  </programme>
+  <!-- RUNDA 21 -->
+  <programme start="20261109054900 +0100" stop="20261109055100 +0100" channel="atm.rozrywka">
+    <title lang="pl">Pitu pitu</title>
+  </programme>
+  <programme start="20261109055100 +0100" stop="20261109060800 +0100" channel="atm.rozrywka">
+    <title lang="pl">Ewa gotuje</title>
+  </programme>
+  <programme start="20261109060800 +0100" stop="20261109065300 +0100" channel="atm.rozrywka">
+    <title lang="pl">Gang Olsena</title>
+  </programme>
+  <programme start="20261109065300 +0100" stop="20261109074800 +0100" channel="atm.rozrywka">
+    <title lang="pl">Pod jednym dachem</title>
+  </programme>
+  <programme start="20261109074800 +0100" stop="20261109083600 +0100" channel="atm.rozrywka">
+    <title lang="pl">Awantura o kasę</title>
+  </programme>
+  <programme start="20261109083600 +0100" stop="20261109091600 +0100" channel="atm.rozrywka">
+    <title lang="pl">Awantura o kasę</title>
+  </programme>
+  <programme start="20261109091600 +0100" stop="20261109100700 +0100" channel="atm.rozrywka">
+    <title lang="pl">Disco gramy</title>
+  </programme>
+  <programme start="20261109100700 +0100" stop="20261109103500 +0100" channel="atm.rozrywka">
+    <title lang="pl">Daleko od noszy</title>
+  </programme>
+  <programme start="20261109103500 +0100" stop="20261109112000 +0100" channel="atm.rozrywka">
+    <title lang="pl">Joker</title>
+  </programme>
+  <programme start="20261109112000 +0100" stop="20261109114200 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261109114200 +0100" stop="20261109120400 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261109120400 +0100" stop="20261109125800 +0100" channel="atm.rozrywka">
+    <title lang="pl">Cobra - oddział specjalny</title>
+  </programme>
+  <programme start="20261109125800 +0100" stop="20261109135000 +0100" channel="atm.rozrywka">
+    <title lang="pl">Cobra - oddział specjalny</title>
+  </programme>
+  <programme start="20261109135000 +0100" stop="20261109142100 +0100" channel="atm.rozrywka">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261109142100 +0100" stop="20261109144200 +0100" channel="atm.rozrywka">
+    <title lang="pl">Włatcy móch: The Best Of</title>
+  </programme>
+  <programme start="20261109144200 +0100" stop="20261109150400 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261109150400 +0100" stop="20261109152600 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261109152600 +0100" stop="20261109155300 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261109155300 +0100" stop="20261109163600 +0100" channel="atm.rozrywka">
+    <title lang="pl">Fala zbrodni</title>
+  </programme>
+  <programme start="20261109163600 +0100" stop="20261109172100 +0100" channel="atm.rozrywka">
+    <title lang="pl">Gra w ciemno</title>
+  </programme>
+  <programme start="20261109172100 +0100" stop="20261109174600 +0100" channel="atm.rozrywka">
+    <title lang="pl">13 posterunek</title>
+  </programme>
+  <programme start="20261109174600 +0100" stop="20261109183200 +0100" channel="atm.rozrywka">
+    <title lang="pl">Fala zbrodni</title>
+  </programme>
+  <programme start="20261109183200 +0100" stop="20261109192100 +0100" channel="atm.rozrywka">
+    <title lang="pl">Ranczo</title>
+  </programme>
+  <programme start="20261109192100 +0100" stop="20261109194600 +0100" channel="atm.rozrywka">
+    <title lang="pl">Familiada</title>
+  </programme>
+  <programme start="20261109194600 +0100" stop="20261109200700 +0100" channel="atm.rozrywka">
+    <title lang="pl">Graczykowie</title>
+  </programme>
+  <!-- RUNDA 22 -->
+  <programme start="20261109200700 +0100" stop="20261109200900 +0100" channel="atm.rozrywka">
+    <title lang="pl">Pitu pitu</title>
+  </programme>
+  <programme start="20261109200900 +0100" stop="20261109202600 +0100" channel="atm.rozrywka">
+    <title lang="pl">Ewa gotuje</title>
+  </programme>
+  <programme start="20261109202600 +0100" stop="20261109211100 +0100" channel="atm.rozrywka">
+    <title lang="pl">Gang Olsena</title>
+  </programme>
+  <programme start="20261109211100 +0100" stop="20261109220600 +0100" channel="atm.rozrywka">
+    <title lang="pl">Pod jednym dachem</title>
+  </programme>
+  <programme start="20261109220600 +0100" stop="20261109225400 +0100" channel="atm.rozrywka">
+    <title lang="pl">Awantura o kasę</title>
+  </programme>
+  <programme start="20261109225400 +0100" stop="20261109233400 +0100" channel="atm.rozrywka">
+    <title lang="pl">Awantura o kasę</title>
+  </programme>
+  <programme start="20261109233400 +0100" stop="20261110002500 +0100" channel="atm.rozrywka">
+    <title lang="pl">Disco gramy</title>
+  </programme>
+  <programme start="20261110002500 +0100" stop="20261110005300 +0100" channel="atm.rozrywka">
+    <title lang="pl">Daleko od noszy</title>
+  </programme>
+  <programme start="20261110005300 +0100" stop="20261110013800 +0100" channel="atm.rozrywka">
+    <title lang="pl">Joker</title>
+  </programme>
+  <programme start="20261110013800 +0100" stop="20261110020000 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261110020000 +0100" stop="20261110022200 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261110022200 +0100" stop="20261110031600 +0100" channel="atm.rozrywka">
+    <title lang="pl">Cobra - oddział specjalny</title>
+  </programme>
+  <programme start="20261110031600 +0100" stop="20261110040800 +0100" channel="atm.rozrywka">
+    <title lang="pl">Cobra - oddział specjalny</title>
+  </programme>
+  <programme start="20261110040800 +0100" stop="20261110043900 +0100" channel="atm.rozrywka">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261110043900 +0100" stop="20261110050000 +0100" channel="atm.rozrywka">
+    <title lang="pl">Włatcy móch: The Best Of</title>
+  </programme>
+  <programme start="20261110050000 +0100" stop="20261110052200 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261110052200 +0100" stop="20261110054400 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261110054400 +0100" stop="20261110061100 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261110061100 +0100" stop="20261110065400 +0100" channel="atm.rozrywka">
+    <title lang="pl">Fala zbrodni</title>
+  </programme>
+  <programme start="20261110065400 +0100" stop="20261110073900 +0100" channel="atm.rozrywka">
+    <title lang="pl">Gra w ciemno</title>
+  </programme>
+  <programme start="20261110073900 +0100" stop="20261110080400 +0100" channel="atm.rozrywka">
+    <title lang="pl">13 posterunek</title>
+  </programme>
+  <programme start="20261110080400 +0100" stop="20261110085000 +0100" channel="atm.rozrywka">
+    <title lang="pl">Fala zbrodni</title>
+  </programme>
+  <programme start="20261110085000 +0100" stop="20261110093900 +0100" channel="atm.rozrywka">
+    <title lang="pl">Ranczo</title>
+  </programme>
+  <programme start="20261110093900 +0100" stop="20261110100400 +0100" channel="atm.rozrywka">
+    <title lang="pl">Familiada</title>
+  </programme>
+  <programme start="20261110100400 +0100" stop="20261110102500 +0100" channel="atm.rozrywka">
+    <title lang="pl">Graczykowie</title>
+  </programme>
+  <!-- RUNDA 23 -->
+  <programme start="20261110102500 +0100" stop="20261110102700 +0100" channel="atm.rozrywka">
+    <title lang="pl">Pitu pitu</title>
+  </programme>
+  <programme start="20261110102700 +0100" stop="20261110104400 +0100" channel="atm.rozrywka">
+    <title lang="pl">Ewa gotuje</title>
+  </programme>
+  <programme start="20261110104400 +0100" stop="20261110112900 +0100" channel="atm.rozrywka">
+    <title lang="pl">Gang Olsena</title>
+  </programme>
+  <programme start="20261110112900 +0100" stop="20261110122400 +0100" channel="atm.rozrywka">
+    <title lang="pl">Pod jednym dachem</title>
+  </programme>
+  <programme start="20261110122400 +0100" stop="20261110131200 +0100" channel="atm.rozrywka">
+    <title lang="pl">Awantura o kasę</title>
+  </programme>
+  <programme start="20261110131200 +0100" stop="20261110135200 +0100" channel="atm.rozrywka">
+    <title lang="pl">Awantura o kasę</title>
+  </programme>
+  <programme start="20261110135200 +0100" stop="20261110144300 +0100" channel="atm.rozrywka">
+    <title lang="pl">Disco gramy</title>
+  </programme>
+  <programme start="20261110144300 +0100" stop="20261110151100 +0100" channel="atm.rozrywka">
+    <title lang="pl">Daleko od noszy</title>
+  </programme>
+  <programme start="20261110151100 +0100" stop="20261110155600 +0100" channel="atm.rozrywka">
+    <title lang="pl">Joker</title>
+  </programme>
+  <programme start="20261110155600 +0100" stop="20261110161800 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261110161800 +0100" stop="20261110164000 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261110164000 +0100" stop="20261110173400 +0100" channel="atm.rozrywka">
+    <title lang="pl">Cobra - oddział specjalny</title>
+  </programme>
+  <programme start="20261110173400 +0100" stop="20261110182600 +0100" channel="atm.rozrywka">
+    <title lang="pl">Cobra - oddział specjalny</title>
+  </programme>
+  <programme start="20261110182600 +0100" stop="20261110185700 +0100" channel="atm.rozrywka">
+    <title lang="pl">Rodzina zastępcza</title>
+  </programme>
+  <programme start="20261110185700 +0100" stop="20261110191800 +0100" channel="atm.rozrywka">
+    <title lang="pl">Włatcy móch: The Best Of</title>
+  </programme>
+  <programme start="20261110191800 +0100" stop="20261110194000 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261110194000 +0100" stop="20261110200200 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261110200200 +0100" stop="20261110202900 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+  </programme>
+  <programme start="20261110202900 +0100" stop="20261110211200 +0100" channel="atm.rozrywka">
+    <title lang="pl">Fala zbrodni</title>
+  </programme>
+  <programme start="20261110211200 +0100" stop="20261110215700 +0100" channel="atm.rozrywka">
+    <title lang="pl">Gra w ciemno</title>
+  </programme>
+  <programme start="20261110215700 +0100" stop="20261110222200 +0100" channel="atm.rozrywka">
+    <title lang="pl">13 posterunek</title>
+  </programme>
+  <programme start="20261110222200 +0100" stop="20261110230800 +0100" channel="atm.rozrywka">
+    <title lang="pl">Fala zbrodni</title>
+  </programme>
+  <programme start="20261110230800 +0100" stop="20261110235700 +0100" channel="atm.rozrywka">
+    <title lang="pl">Ranczo</title>
+  </programme>
+  <programme start="20261110235700 +0100" stop="20261111002200 +0100" channel="atm.rozrywka">
+    <title lang="pl">Familiada</title>
+  </programme>
+  <programme start="20261111002200 +0100" stop="20261111004300 +0100" channel="atm.rozrywka">
+    <title lang="pl">Graczykowie</title>
+  </programme>
+</tv>
