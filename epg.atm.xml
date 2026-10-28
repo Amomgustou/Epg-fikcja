@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="MojEPGGenerator">
+  
+  <!-- DEFINICJA KANAŁU -->
+  <channel id="atm.rozrywka">
+    <display-name lang="pl">ATM Rozrywka</display-name>
+  </channel>
+
+  <!-- HARMONOGRAM PROGRAMÓW (28 Października 2026) -->
+  
+  <!-- 12:00 - 12:02 (2 min) -->
+  <programme start="20261028120000 +0100" stop="20261028120200 +0100" channel="atm.rozrywka">
+    <title lang="pl">Pitu pitu</title>
+    <category lang="pl">Rozrywka</category>
+  </programme>
+
+  <!-- 12:02 - 12:19 (17 min) -->
+  <programme start="20261028120200 +0100" stop="20261028121900 +0100" channel="atm.rozrywka">
+    <title lang="pl">Ewa gotuje</title>
+    <category lang="pl">Kulinaria</category>
+  </programme>
+
+  <!-- 12:19 - 13:04 (45 min) -->
+  <programme start="20261028121900 +0100" stop="20261028130400 +0100" channel="atm.rozrywka">
+    <title lang="pl">Gang Olsena</title>
+    <category lang="pl">Film / Komedia</category>
+  </programme>
+
+  <!-- 13:04 - 13:59 (55 min) -->
+  <programme start="20261028130400 +0100" stop="20261028135900 +0100" channel="atm.rozrywka">
+    <title lang="pl">Pod jednym dachem</title>
+    <category lang="pl">Serial</category>
+  </programme>
+
+  <!-- 13:59 - 14:47 (48 min) -->
+  <programme start="20261028135900 +0100" stop="20261028144700 +0100" channel="atm.rozrywka">
+    <title lang="pl">Awantura o kasę</title>
+    <desc lang="pl">Odcinek 1</desc>
+    <category lang="pl">Teleturniej</category>
+  </programme>
+
+  <!-- 14:47 - 15:27 (40 min) -->
+  <programme start="20261028144700 +0100" stop="20261028152700 +0100" channel="atm.rozrywka">
+    <title lang="pl">Awantura o kasę</title>
+    <desc lang="pl">Odcinek 2</desc>
+    <category lang="pl">Teleturniej</category>
+  </programme>
+
+  <!-- 15:27 - 16:18 (51 min) -->
+  <programme start="20261028152700 +0100" stop="20261028161800 +0100" channel="atm.rozrywka">
+    <title lang="pl">Disco gramy</title>
+    <category lang="pl">Muzyka</category>
+  </programme>
+
+  <!-- 16:18 - 16:46 (28 min) -->
+  <programme start="20261028161800 +0100" stop="20261028164600 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+    <desc lang="pl">Odcinek 1</desc>
+    <category lang="pl">Serial komediowy</category>
+  </programme>
+
+  <!-- 16:46 - 17:14 (28 min) -->
+  <programme start="20261028164600 +0100" stop="20261028171400 +0100" channel="atm.rozrywka">
+    <title lang="pl">Świat według Kiepskich</title>
+    <desc lang="pl">Odcinek 2</desc>
+    <category lang="pl">Serial komediowy</category>
+  </programme>
+
+</tv>
